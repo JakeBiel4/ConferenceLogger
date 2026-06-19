@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document</title>
+        <style>
+
+        </style>
+    </head>
+    <body>
+        <div id="main">
+            <div id="drop-zone">
+                <p>Drag & Drop .json File Here</p>
+            </div>
+            <div id="submit-box">
+                <label for="year">Year: </label>
+                <input type="text" name="year" id="year">
+                <label for="school">School: </label>
+                <input type="text" name="school" id="school">
+                <label for="conf">Conference: </label>
+                <button id="enter">Enter</button>
+                <button id="fill">Fill</button>
+            </div>
+        </div>
+        <script>
+            const main = document.getElementById('main');
+            const dropZone = document.getElementById('drop-zone');
+            const year = document.getElementById('year');
+            const school = document.getElementById('school');
+            const conf = document.getElementById('conf');
+            const enter = document.getElementById('enter');
+            const fill = document.getElementById('fill');
+            dropZone.addEventListener('drop', async (e) => {
+                const files = e.dataTransfer.files;
+                const response = await fetch(files);
+                const data = await response.json();
+                await fetch('/set', {
+                    method: "POST",
+                    body: JSON.stringify({
+                        file: JSON.stringify(data)
+                    })
+                });
+                main.removeChild(dropZone);
+            });
+            enter.addEventListener('click', async () => {
+                await fetch('/add', {
+                    method: "POST",
+                    body: JSON.stringify({
+                        year: year.value,
+                        Name: school.value,
+                        conf: conf.value
+                    })
+                });
+                school.value = "";
+                conf.value = "";
+            });
+            fill.addEventListener('click', async () => {
+                await fetch('/fill', {
+                    method: "POST",
+                    body: JSON.stringify({
+                        year: year.value
+                    })
+                });
+            });
+        </script>
+    </body>
+</html>
