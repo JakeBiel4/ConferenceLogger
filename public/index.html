@@ -5,13 +5,19 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Document</title>
         <style>
-
+            .drop {
+                background-color: lightgray;
+                border: black;
+                width: 300px;
+                height: 200px;
+            }
         </style>
     </head>
     <body>
         <div id="main">
-            <div id="drop-zone">
-                <p>Drag & Drop .json File Here</p>
+            <div class="drop">
+                <span>Drag & Drop .json File Here</span>
+                <input type="file" name="file-in" id="file-in">
             </div>
             <div id="submit-box">
                 <label for="year">Year: </label>
@@ -25,7 +31,7 @@
         </div>
         <script>
             const main = document.getElementById('main');
-            const dropZone = document.getElementById('drop-zone');
+            const dropZone = document.getElementById('file-in');
             const year = document.getElementById('year');
             const school = document.getElementById('school');
             const conf = document.getElementById('conf');

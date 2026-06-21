@@ -1,13 +1,17 @@
 const fs = require('fs');
-const express = ('express');
+const express = require('express');
+const path = require('path');
 const app = express();
 const PORT = process.env.PORT || 5150;
 app.use(express.json());
-app.use(express.static('public'));
+app.use(express.static(path.join(__dirname, 'public')));
 let field = {};
 app.post('/set', (req, res) => {
     if(req.body.file.properties.format == "CFB"){
         field = req.body.file.json();
+        res.json(JSON.stringify({
+            "success": "data received"
+        }));
     }else{
         res.json(JSON.stringify({
             "error": "invalid format"
