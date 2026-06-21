@@ -11,27 +11,52 @@
                 width: 300px;
                 height: 200px;
             }
+            .main {
+                display: flex;
+                flex-direction: column;
+                justify-content: center;
+            }
+            .data {
+                display: flex;
+                flex-direction: row;
+                justify-content: center;
+            }
+            .label-group {
+                display: flex;
+                flex-direction: row;
+            }
         </style>
     </head>
     <body>
-        <div id="main">
+        <div class="main">
             <div class="drop">
                 <span>Drag & Drop .json File Here</span>
                 <input type="file" name="file-in" id="file-in" accept=".json">
                 <button id="submit">Submit</button>
             </div>
-            <div id="submit-box">
-                <label for="year">Year: </label>
-                <input type="text" name="year" id="year">
-                <label for="school">School: </label>
-                <input type="text" name="school" id="school">
-                <label for="conf">Conference: </label>
-                <button id="enter">Enter</button>
-                <button id="fill">Fill</button>
+            <div id="submit-box" class="main">
+                <div class="data">
+                    <div class="label-group">
+                        <label for="year">Year: </label>
+                        <input type="text" name="year" id="year">
+                    </div>
+                    <div class="label-group">
+                        <label for="school">School: </label>
+                        <input type="text" name="school" id="school">
+                    </div>
+                    <div class="label-group">
+                        <label for="conf">Conference: </label>
+                        <input type="text" name="conf" id="conf">
+                    </div>
+                </div>
+                <div class="data">
+                    <button id="enter">Enter</button>
+                    <button id="fill">Fill</button>
+                    <button id="save">Save</button>
+                </div>
             </div>
         </div>
         <script>
-            const main = document.getElementById('main');
             const dropZone = document.getElementById('file-in');
             const submit = document.getElementById('submit');
             const year = document.getElementById('year');
@@ -39,6 +64,7 @@
             const conf = document.getElementById('conf');
             const enter = document.getElementById('enter');
             const fill = document.getElementById('fill');
+            const save = document.getElementById('save');
             submit.addEventListener('click', async () => {
                 if(dropZone.files.length === 1){
                     const file = await fetch(dropZone.files[0]);
@@ -73,6 +99,9 @@
                         year: year.value
                     })
                 });
+            });
+            save.addEventListener('click', async () => {
+                await fetch('/save');
             });
         </script>
     </body>

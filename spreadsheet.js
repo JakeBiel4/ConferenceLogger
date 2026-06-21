@@ -78,7 +78,7 @@ app.post('/fill', (req, res) => {
     }
 });
 app.get('/save', (req, res) => {
-    res.json(field);
+    fs.writeFileSync('./test.json', JSON.stringify(field, null, 2), 'utf8');
 });
 app.listen(PORT, () => {
     console.log("Server running on " + PORT);
