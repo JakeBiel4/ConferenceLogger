@@ -6,6 +6,13 @@ const PORT = process.env.PORT || 5150;
 app.use(express.json());
 app.use(express.static(path.join(__dirname, 'public')));
 let field = {};
+fs.readFile('./save.json', 'utf8', (err, data) => {
+    if(err){
+        console.log(err);
+    }else{
+        field = JSON.parse(data);
+    }
+});
 app.post('/set', (req, res) => {
     if(req.body.file.properties.format == "CFB"){
         field = req.body.file.json();

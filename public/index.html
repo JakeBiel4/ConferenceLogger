@@ -17,7 +17,8 @@
         <div id="main">
             <div class="drop">
                 <span>Drag & Drop .json File Here</span>
-                <input type="file" name="file-in" id="file-in">
+                <input type="file" name="file-in" id="file-in" accept=".json">
+                <button id="submit">Submit</button>
             </div>
             <div id="submit-box">
                 <label for="year">Year: </label>
@@ -32,22 +33,26 @@
         <script>
             const main = document.getElementById('main');
             const dropZone = document.getElementById('file-in');
+            const submit = document.getElementById('submit');
             const year = document.getElementById('year');
             const school = document.getElementById('school');
             const conf = document.getElementById('conf');
             const enter = document.getElementById('enter');
             const fill = document.getElementById('fill');
-            dropZone.addEventListener('drop', async (e) => {
-                const files = e.dataTransfer.files;
-                const response = await fetch(files);
-                const data = await response.json();
-                await fetch('/set', {
-                    method: "POST",
-                    body: JSON.stringify({
-                        file: JSON.stringify(data)
-                    })
-                });
-                main.removeChild(dropZone);
+            submit.addEventListener('click', async () => {
+                if(dropZone.files.length === 1){
+                    const file = await fetch(dropZone.files[0]);
+                    const data = await file.text();
+                    console.log(data);
+                    /*
+                    await fetch('/set', {
+                        method: "POST",
+                        body: JSON.stringify({
+                            file: JSON.stringify(data)
+                        })
+                    });
+                    */
+                }
             });
             enter.addEventListener('click', async () => {
                 await fetch('/add', {
