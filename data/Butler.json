@@ -1,1 +1,357 @@
-{"properties":{"key":["Name","ID"],"format":"CFB"},"data":{"seasons":[{"conf":["None"],"year":"1869"},{"conf":["None"],"year":"1870"},{"conf":["None"],"year":"1871"},{"conf":["None"],"year":"1872"},{"conf":["None"],"year":"1873"},{"conf":["None"],"year":"1874"},{"conf":["None"],"year":"1875"},{"conf":["None"],"year":"1876"},{"conf":["None"],"year":"1877"},{"conf":["None"],"year":"1878"},{"conf":["None"],"year":"1879"},{"conf":["None"],"year":"1880"},{"conf":["None"],"year":"1881"},{"conf":["None"],"year":"1882"},{"conf":["None"],"year":"1883"},{"conf":["Ind"],"year":"1884"},{"conf":["None"],"year":"1885"},{"conf":["None"],"year":"1886"},{"conf":["Ind"],"year":"1887"},{"conf":["None"],"year":"1888"},{"conf":["Ind"],"year":"1889"},{"conf":["IIAA"],"year":"1890"},{"conf":["IIAA"],"year":"1891"},{"conf":["IIAA"],"year":"1892"},{"conf":["IIAA"],"year":"1893"},{"conf":["IIAA"],"year":"1894"},{"conf":["Ind"],"year":"1895"},{"conf":["None"],"year":"1896"},{"conf":["Ind"],"year":"1897"},{"conf":["Ind"],"year":"1898"},{"conf":["Ind"],"year":"1899"},{"conf":["Ind"],"year":"1900"},{"conf":["Ind"],"year":"1901"},{"conf":["Ind"],"year":"1902"},{"conf":["Ind"],"year":"1903"},{"conf":["Ind"],"year":"1904"},{"conf":["Ind"],"year":"1905"},{"conf":["Ind"],"year":"1906"},{"conf":["Ind"],"year":"1907"},{"conf":["Ind"],"year":"1908"},{"conf":["Ind"],"year":"1909"},{"conf":["Ind"],"year":"1910"},{"conf":["Ind"],"year":"1911"},{"conf":["Ind"],"year":"1912"},{"conf":["Ind"],"year":"1913"},{"conf":["Ind"],"year":"1914"},{"conf":["Ind"],"year":"1915"},{"conf":["ICAL"],"year":"1916"},{"conf":["None"],"year":"1917"},{"conf":["Ind"],"year":"1918"},{"conf":["Ind"],"year":"1919"},{"conf":["Ind"],"year":"1920"},{"conf":["Ind"],"year":"1921"},{"conf":["Ind"],"year":"1922"},{"conf":["IIC"],"year":"1923"},{"conf":["IIC"],"year":"1924"},{"conf":["Ind"],"year":"1925"}],"Name":"Butler","ID":50}}
+{
+  "properties": {
+    "key": [
+      "Name",
+      "ID"
+    ],
+    "format": "CFB"
+  },
+  "data": {
+    "seasons": [
+      {
+        "conf": [
+          "None"
+        ],
+        "year": "1869"
+      },
+      {
+        "conf": [
+          "None"
+        ],
+        "year": "1870"
+      },
+      {
+        "conf": [
+          "None"
+        ],
+        "year": "1871"
+      },
+      {
+        "conf": [
+          "None"
+        ],
+        "year": "1872"
+      },
+      {
+        "conf": [
+          "None"
+        ],
+        "year": "1873"
+      },
+      {
+        "conf": [
+          "None"
+        ],
+        "year": "1874"
+      },
+      {
+        "conf": [
+          "None"
+        ],
+        "year": "1875"
+      },
+      {
+        "conf": [
+          "None"
+        ],
+        "year": "1876"
+      },
+      {
+        "conf": [
+          "None"
+        ],
+        "year": "1877"
+      },
+      {
+        "conf": [
+          "None"
+        ],
+        "year": "1878"
+      },
+      {
+        "conf": [
+          "None"
+        ],
+        "year": "1879"
+      },
+      {
+        "conf": [
+          "None"
+        ],
+        "year": "1880"
+      },
+      {
+        "conf": [
+          "None"
+        ],
+        "year": "1881"
+      },
+      {
+        "conf": [
+          "None"
+        ],
+        "year": "1882"
+      },
+      {
+        "conf": [
+          "None"
+        ],
+        "year": "1883"
+      },
+      {
+        "conf": [
+          "Ind"
+        ],
+        "year": "1884"
+      },
+      {
+        "conf": [
+          "None"
+        ],
+        "year": "1885"
+      },
+      {
+        "conf": [
+          "None"
+        ],
+        "year": "1886"
+      },
+      {
+        "conf": [
+          "Ind"
+        ],
+        "year": "1887"
+      },
+      {
+        "conf": [
+          "None"
+        ],
+        "year": "1888"
+      },
+      {
+        "conf": [
+          "Ind"
+        ],
+        "year": "1889"
+      },
+      {
+        "conf": [
+          "IIAA"
+        ],
+        "year": "1890"
+      },
+      {
+        "conf": [
+          "IIAA"
+        ],
+        "year": "1891"
+      },
+      {
+        "conf": [
+          "IIAA"
+        ],
+        "year": "1892"
+      },
+      {
+        "conf": [
+          "IIAA"
+        ],
+        "year": "1893"
+      },
+      {
+        "conf": [
+          "IIAA"
+        ],
+        "year": "1894"
+      },
+      {
+        "conf": [
+          "Ind"
+        ],
+        "year": "1895"
+      },
+      {
+        "conf": [
+          "None"
+        ],
+        "year": "1896"
+      },
+      {
+        "conf": [
+          "Ind"
+        ],
+        "year": "1897"
+      },
+      {
+        "conf": [
+          "Ind"
+        ],
+        "year": "1898"
+      },
+      {
+        "conf": [
+          "Ind"
+        ],
+        "year": "1899"
+      },
+      {
+        "conf": [
+          "Ind"
+        ],
+        "year": "1900"
+      },
+      {
+        "conf": [
+          "Ind"
+        ],
+        "year": "1901"
+      },
+      {
+        "conf": [
+          "Ind"
+        ],
+        "year": "1902"
+      },
+      {
+        "conf": [
+          "Ind"
+        ],
+        "year": "1903"
+      },
+      {
+        "conf": [
+          "Ind"
+        ],
+        "year": "1904"
+      },
+      {
+        "conf": [
+          "Ind"
+        ],
+        "year": "1905"
+      },
+      {
+        "conf": [
+          "Ind"
+        ],
+        "year": "1906"
+      },
+      {
+        "conf": [
+          "Ind"
+        ],
+        "year": "1907"
+      },
+      {
+        "conf": [
+          "Ind"
+        ],
+        "year": "1908"
+      },
+      {
+        "conf": [
+          "Ind"
+        ],
+        "year": "1909"
+      },
+      {
+        "conf": [
+          "Ind"
+        ],
+        "year": "1910"
+      },
+      {
+        "conf": [
+          "Ind"
+        ],
+        "year": "1911"
+      },
+      {
+        "conf": [
+          "Ind"
+        ],
+        "year": "1912"
+      },
+      {
+        "conf": [
+          "Ind"
+        ],
+        "year": "1913"
+      },
+      {
+        "conf": [
+          "Ind"
+        ],
+        "year": "1914"
+      },
+      {
+        "conf": [
+          "Ind"
+        ],
+        "year": "1915"
+      },
+      {
+        "conf": [
+          "ICAL"
+        ],
+        "year": "1916"
+      },
+      {
+        "conf": [
+          "None"
+        ],
+        "year": "1917"
+      },
+      {
+        "conf": [
+          "Ind"
+        ],
+        "year": "1918"
+      },
+      {
+        "conf": [
+          "Ind"
+        ],
+        "year": "1919"
+      },
+      {
+        "conf": [
+          "Ind"
+        ],
+        "year": "1920"
+      },
+      {
+        "conf": [
+          "Ind"
+        ],
+        "year": "1921"
+      },
+      {
+        "conf": [
+          "Ind"
+        ],
+        "year": "1922"
+      },
+      {
+        "conf": [
+          "IIC"
+        ],
+        "year": "1923"
+      },
+      {
+        "conf": [
+          "IIC"
+        ],
+        "year": "1924"
+      },
+      {
+        "conf": [
+          "Ind"
+        ],
+        "year": "1925"
+      }
+    ],
+    "Name": "Butler",
+    "ID": 50
+  }
+}

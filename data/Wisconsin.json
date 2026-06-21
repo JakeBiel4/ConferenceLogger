@@ -1,1 +1,357 @@
-{"properties":{"key":["Name","ID"],"format":"CFB"},"data":{"seasons":[{"conf":["None"],"year":"1869"},{"conf":["None"],"year":"1870"},{"conf":["None"],"year":"1871"},{"conf":["None"],"year":"1872"},{"conf":["None"],"year":"1873"},{"conf":["None"],"year":"1874"},{"conf":["None"],"year":"1875"},{"conf":["None"],"year":"1876"},{"conf":["None"],"year":"1877"},{"conf":["None"],"year":"1878"},{"conf":["None"],"year":"1879"},{"conf":["None"],"year":"1880"},{"conf":["None"],"year":"1881"},{"conf":["None"],"year":"1882"},{"conf":["None"],"year":"1883"},{"conf":["None"],"year":"1884"},{"conf":["None"],"year":"1885"},{"conf":["None"],"year":"1886"},{"conf":["None"],"year":"1887"},{"conf":["None"],"year":"1888"},{"conf":["Ind"],"year":"1889"},{"conf":["Ind"],"year":"1890"},{"conf":["Ind"],"year":"1891"},{"conf":["IAAN"],"year":"1892"},{"conf":["IAAN"],"year":"1893"},{"conf":["Ind"],"year":"1894"},{"conf":["Ind"],"year":"1895"},{"conf":["BIG 10"],"year":"1896"},{"conf":["BIG 10"],"year":"1897"},{"conf":["BIG 10"],"year":"1898"},{"conf":["BIG 10"],"year":"1899"},{"conf":["BIG 10"],"year":"1900"},{"conf":["BIG 10"],"year":"1901"},{"conf":["BIG 10"],"year":"1902"},{"conf":["BIG 10"],"year":"1903"},{"conf":["BIG 10"],"year":"1904"},{"conf":["BIG 10"],"year":"1905"},{"conf":["BIG 10"],"year":"1906"},{"conf":["BIG 10"],"year":"1907"},{"conf":["BIG 10"],"year":"1908"},{"conf":["BIG 10"],"year":"1909"},{"conf":["BIG 10"],"year":"1910"},{"conf":["BIG 10"],"year":"1911"},{"conf":["BIG 10"],"year":"1912"},{"conf":["BIG 10"],"year":"1913"},{"conf":["BIG 10"],"year":"1914"},{"conf":["BIG 10"],"year":"1915"},{"conf":["BIG 10"],"year":"1916"},{"conf":["BIG 10"],"year":"1917"},{"conf":["BIG 10"],"year":"1918"},{"conf":["BIG 10"],"year":"1919"},{"conf":["BIG 10"],"year":"1920"},{"conf":["BIG 10"],"year":"1921"},{"conf":["BIG 10"],"year":"1922"},{"conf":["BIG 10"],"year":"1923"},{"conf":["BIG 10"],"year":"1924"},{"conf":["BIG 10"],"year":"1925"}],"Name":"Wisconsin","ID":79}}
+{
+  "properties": {
+    "key": [
+      "Name",
+      "ID"
+    ],
+    "format": "CFB"
+  },
+  "data": {
+    "seasons": [
+      {
+        "conf": [
+          "None"
+        ],
+        "year": "1869"
+      },
+      {
+        "conf": [
+          "None"
+        ],
+        "year": "1870"
+      },
+      {
+        "conf": [
+          "None"
+        ],
+        "year": "1871"
+      },
+      {
+        "conf": [
+          "None"
+        ],
+        "year": "1872"
+      },
+      {
+        "conf": [
+          "None"
+        ],
+        "year": "1873"
+      },
+      {
+        "conf": [
+          "None"
+        ],
+        "year": "1874"
+      },
+      {
+        "conf": [
+          "None"
+        ],
+        "year": "1875"
+      },
+      {
+        "conf": [
+          "None"
+        ],
+        "year": "1876"
+      },
+      {
+        "conf": [
+          "None"
+        ],
+        "year": "1877"
+      },
+      {
+        "conf": [
+          "None"
+        ],
+        "year": "1878"
+      },
+      {
+        "conf": [
+          "None"
+        ],
+        "year": "1879"
+      },
+      {
+        "conf": [
+          "None"
+        ],
+        "year": "1880"
+      },
+      {
+        "conf": [
+          "None"
+        ],
+        "year": "1881"
+      },
+      {
+        "conf": [
+          "None"
+        ],
+        "year": "1882"
+      },
+      {
+        "conf": [
+          "None"
+        ],
+        "year": "1883"
+      },
+      {
+        "conf": [
+          "None"
+        ],
+        "year": "1884"
+      },
+      {
+        "conf": [
+          "None"
+        ],
+        "year": "1885"
+      },
+      {
+        "conf": [
+          "None"
+        ],
+        "year": "1886"
+      },
+      {
+        "conf": [
+          "None"
+        ],
+        "year": "1887"
+      },
+      {
+        "conf": [
+          "None"
+        ],
+        "year": "1888"
+      },
+      {
+        "conf": [
+          "Ind"
+        ],
+        "year": "1889"
+      },
+      {
+        "conf": [
+          "Ind"
+        ],
+        "year": "1890"
+      },
+      {
+        "conf": [
+          "Ind"
+        ],
+        "year": "1891"
+      },
+      {
+        "conf": [
+          "IAAN"
+        ],
+        "year": "1892"
+      },
+      {
+        "conf": [
+          "IAAN"
+        ],
+        "year": "1893"
+      },
+      {
+        "conf": [
+          "Ind"
+        ],
+        "year": "1894"
+      },
+      {
+        "conf": [
+          "Ind"
+        ],
+        "year": "1895"
+      },
+      {
+        "conf": [
+          "BIG 10"
+        ],
+        "year": "1896"
+      },
+      {
+        "conf": [
+          "BIG 10"
+        ],
+        "year": "1897"
+      },
+      {
+        "conf": [
+          "BIG 10"
+        ],
+        "year": "1898"
+      },
+      {
+        "conf": [
+          "BIG 10"
+        ],
+        "year": "1899"
+      },
+      {
+        "conf": [
+          "BIG 10"
+        ],
+        "year": "1900"
+      },
+      {
+        "conf": [
+          "BIG 10"
+        ],
+        "year": "1901"
+      },
+      {
+        "conf": [
+          "BIG 10"
+        ],
+        "year": "1902"
+      },
+      {
+        "conf": [
+          "BIG 10"
+        ],
+        "year": "1903"
+      },
+      {
+        "conf": [
+          "BIG 10"
+        ],
+        "year": "1904"
+      },
+      {
+        "conf": [
+          "BIG 10"
+        ],
+        "year": "1905"
+      },
+      {
+        "conf": [
+          "BIG 10"
+        ],
+        "year": "1906"
+      },
+      {
+        "conf": [
+          "BIG 10"
+        ],
+        "year": "1907"
+      },
+      {
+        "conf": [
+          "BIG 10"
+        ],
+        "year": "1908"
+      },
+      {
+        "conf": [
+          "BIG 10"
+        ],
+        "year": "1909"
+      },
+      {
+        "conf": [
+          "BIG 10"
+        ],
+        "year": "1910"
+      },
+      {
+        "conf": [
+          "BIG 10"
+        ],
+        "year": "1911"
+      },
+      {
+        "conf": [
+          "BIG 10"
+        ],
+        "year": "1912"
+      },
+      {
+        "conf": [
+          "BIG 10"
+        ],
+        "year": "1913"
+      },
+      {
+        "conf": [
+          "BIG 10"
+        ],
+        "year": "1914"
+      },
+      {
+        "conf": [
+          "BIG 10"
+        ],
+        "year": "1915"
+      },
+      {
+        "conf": [
+          "BIG 10"
+        ],
+        "year": "1916"
+      },
+      {
+        "conf": [
+          "BIG 10"
+        ],
+        "year": "1917"
+      },
+      {
+        "conf": [
+          "BIG 10"
+        ],
+        "year": "1918"
+      },
+      {
+        "conf": [
+          "BIG 10"
+        ],
+        "year": "1919"
+      },
+      {
+        "conf": [
+          "BIG 10"
+        ],
+        "year": "1920"
+      },
+      {
+        "conf": [
+          "BIG 10"
+        ],
+        "year": "1921"
+      },
+      {
+        "conf": [
+          "BIG 10"
+        ],
+        "year": "1922"
+      },
+      {
+        "conf": [
+          "BIG 10"
+        ],
+        "year": "1923"
+      },
+      {
+        "conf": [
+          "BIG 10"
+        ],
+        "year": "1924"
+      },
+      {
+        "conf": [
+          "BIG 10"
+        ],
+        "year": "1925"
+      }
+    ],
+    "Name": "Wisconsin",
+    "ID": 79
+  }
+}

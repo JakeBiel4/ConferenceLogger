@@ -12,5 +12,5 @@ for(let entry of field.data){
         }
     };
     school.data = entry;
-    fs.writeFileSync('./data/' + entry.Name + '.json', JSON.stringify(school));
+    fs.writeFileSync('./data/' + entry.Name + '.json', JSON.stringify(school, null, 2));
 }
