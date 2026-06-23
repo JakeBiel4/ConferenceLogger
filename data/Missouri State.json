@@ -352,6 +352,7 @@
       }
     ],
     "Name": "Missouri State",
-    "ID": 347
+    "ID": 347,
+    "state": "MO"
   }
 }

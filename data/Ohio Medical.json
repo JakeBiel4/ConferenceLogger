@@ -352,6 +352,7 @@
       }
     ],
     "Name": "Ohio Medical",
-    "ID": 220
+    "ID": 220,
+    "state": "OH"
   }
 }

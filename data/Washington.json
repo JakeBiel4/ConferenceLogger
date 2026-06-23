@@ -358,6 +358,7 @@
       }
     ],
     "Name": "Washington",
-    "ID": 84
+    "ID": 84,
+    "state": "WA"
   }
 }

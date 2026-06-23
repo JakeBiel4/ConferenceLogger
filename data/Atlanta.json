@@ -352,6 +352,7 @@
       }
     ],
     "Name": "Atlanta",
-    "ID": 315
+    "ID": 315,
+    "state": "GA"
   }
 }

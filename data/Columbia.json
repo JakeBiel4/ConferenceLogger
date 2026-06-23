@@ -352,6 +352,7 @@
       }
     ],
     "Name": "Columbia",
-    "ID": 3
+    "ID": 3,
+    "state": "NY"
   }
 }

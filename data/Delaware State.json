@@ -352,6 +352,7 @@
       }
     ],
     "Name": "Delaware State",
-    "ID": 495
+    "ID": 495,
+    "state": "DE"
   }
 }

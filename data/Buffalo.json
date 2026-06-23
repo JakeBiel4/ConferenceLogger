@@ -352,6 +352,7 @@
       }
     ],
     "Name": "Buffalo",
-    "ID": 173
+    "ID": 173,
+    "state": "NY"
   }
 }

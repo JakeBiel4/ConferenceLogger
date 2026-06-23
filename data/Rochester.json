@@ -352,6 +352,7 @@
       }
     ],
     "Name": "Rochester",
-    "ID": 328
+    "ID": 328,
+    "state": "NY"
   }
 }

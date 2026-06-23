@@ -354,6 +354,7 @@
       }
     ],
     "Name": "Louisiana",
-    "ID": 222
+    "ID": 222,
+    "state": "LA"
   }
 }

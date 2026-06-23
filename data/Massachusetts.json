@@ -352,6 +352,7 @@
       }
     ],
     "Name": "Massachusetts",
-    "ID": 22
+    "ID": 22,
+    "state": "MA"
   }
 }

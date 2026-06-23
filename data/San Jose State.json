@@ -352,6 +352,7 @@
       }
     ],
     "Name": "San Jose State",
-    "ID": 143
+    "ID": 143,
+    "state": "CA"
   }
 }

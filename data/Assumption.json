@@ -352,6 +352,7 @@
       }
     ],
     "Name": "Assumption",
-    "ID": 514
+    "ID": 514,
+    "state": "OT"
   }
 }

@@ -352,6 +352,7 @@
       }
     ],
     "Name": "Wabash",
-    "ID": 50
+    "ID": 50,
+    "state": "IN"
   }
 }

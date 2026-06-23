@@ -352,6 +352,7 @@
       }
     ],
     "Name": "Illinois",
-    "ID": 98
+    "ID": 98,
+    "state": "IL"
   }
 }

@@ -352,6 +352,7 @@
       }
     ],
     "Name": "Chilocco",
-    "ID": 226
+    "ID": 226,
+    "state": "OK"
   }
 }

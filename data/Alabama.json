@@ -352,6 +352,7 @@
       }
     ],
     "Name": "Alabama",
-    "ID": 128
+    "ID": 128,
+    "state": "AL"
   }
 }

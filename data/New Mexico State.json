@@ -352,6 +352,7 @@
       }
     ],
     "Name": "New Mexico State",
-    "ID": 181
+    "ID": 181,
+    "state": "NM"
   }
 }

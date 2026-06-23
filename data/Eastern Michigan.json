@@ -352,6 +352,7 @@
       }
     ],
     "Name": "Eastern Michigan",
-    "ID": 109
+    "ID": 109,
+    "state": "MI"
   }
 }

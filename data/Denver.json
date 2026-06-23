@@ -352,6 +352,7 @@
       }
     ],
     "Name": "Denver",
-    "ID": 53
+    "ID": 53,
+    "state": "CO"
   }
 }

@@ -352,6 +352,7 @@
       }
     ],
     "Name": "Lake Forest",
-    "ID": 42
+    "ID": 42,
+    "state": "IL"
   }
 }

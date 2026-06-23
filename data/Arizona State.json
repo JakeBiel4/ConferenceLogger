@@ -352,6 +352,7 @@
       }
     ],
     "Name": "Arizona State",
-    "ID": 213
+    "ID": 213,
+    "state": "AZ"
   }
 }

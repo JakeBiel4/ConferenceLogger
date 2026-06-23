@@ -352,6 +352,7 @@
       }
     ],
     "Name": "Nebraska Central",
-    "ID": 387
+    "ID": 387,
+    "state": "NE"
   }
 }

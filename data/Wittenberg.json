@@ -352,6 +352,7 @@
       }
     ],
     "Name": "Wittenberg",
-    "ID": 123
+    "ID": 123,
+    "state": "OH"
   }
 }

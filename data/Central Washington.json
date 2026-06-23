@@ -352,6 +352,7 @@
       }
     ],
     "Name": "Central Washington",
-    "ID": 527
+    "ID": 527,
+    "state": "WA"
   }
 }

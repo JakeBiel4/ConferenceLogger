@@ -352,6 +352,7 @@
       }
     ],
     "Name": "Ohio Wesleyan",
-    "ID": 100
+    "ID": 100,
+    "state": "OH"
   }
 }

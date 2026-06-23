@@ -352,6 +352,7 @@
       }
     ],
     "Name": "Willamette",
-    "ID": 344
+    "ID": 344,
+    "state": "OR"
   }
 }

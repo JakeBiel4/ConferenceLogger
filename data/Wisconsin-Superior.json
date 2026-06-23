@@ -352,6 +352,7 @@
       }
     ],
     "Name": "Wisconsin-Superior",
-    "ID": 306
+    "ID": 306,
+    "state": "WI"
   }
 }

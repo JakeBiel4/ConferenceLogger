@@ -352,6 +352,7 @@
       }
     ],
     "Name": "Cornell (IA)",
-    "ID": 455
+    "ID": 455,
+    "state": "IA"
   }
 }

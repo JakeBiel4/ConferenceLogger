@@ -352,6 +352,7 @@
       }
     ],
     "Name": "Missouri",
-    "ID": 96
+    "ID": 96,
+    "state": "MO"
   }
 }

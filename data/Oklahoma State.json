@@ -353,6 +353,7 @@
       }
     ],
     "Name": "Oklahoma State",
-    "ID": 225
+    "ID": 225,
+    "state": "OK"
   }
 }

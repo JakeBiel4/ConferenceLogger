@@ -352,6 +352,7 @@
       }
     ],
     "Name": "Manchester",
-    "ID": 501
+    "ID": 501,
+    "state": "IN"
   }
 }

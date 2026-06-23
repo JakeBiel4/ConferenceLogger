@@ -352,6 +352,7 @@
       }
     ],
     "Name": "Colorado Mines",
-    "ID": 85
+    "ID": 85,
+    "state": "CO"
   }
 }

@@ -352,6 +352,7 @@
       }
     ],
     "Name": "Vincennes",
-    "ID": 502
+    "ID": 502,
+    "state": "IN"
   }
 }

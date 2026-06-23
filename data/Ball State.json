@@ -352,6 +352,7 @@
       }
     ],
     "Name": "Ball State",
-    "ID": 500
+    "ID": 500,
+    "state": "IN"
   }
 }

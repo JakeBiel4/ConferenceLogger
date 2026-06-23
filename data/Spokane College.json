@@ -352,6 +352,7 @@
       }
     ],
     "Name": "Spokane College",
-    "ID": 411
+    "ID": 411,
+    "state": "WA"
   }
 }

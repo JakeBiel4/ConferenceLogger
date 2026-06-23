@@ -352,6 +352,7 @@
       }
     ],
     "Name": "Syracuse",
-    "ID": 89
+    "ID": 89,
+    "state": "NY"
   }
 }

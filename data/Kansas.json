@@ -352,6 +352,7 @@
       }
     ],
     "Name": "Kansas",
-    "ID": 99
+    "ID": 99,
+    "state": "KS"
   }
 }

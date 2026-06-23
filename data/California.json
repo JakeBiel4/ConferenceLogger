@@ -352,6 +352,7 @@
       }
     ],
     "Name": "California",
-    "ID": 58
+    "ID": 58,
+    "state": "CA"
   }
 }

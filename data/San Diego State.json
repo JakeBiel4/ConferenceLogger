@@ -352,6 +352,7 @@
       }
     ],
     "Name": "San Diego State",
-    "ID": 518
+    "ID": 518,
+    "state": "CA"
   }
 }

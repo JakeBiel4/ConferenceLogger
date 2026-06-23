@@ -352,6 +352,7 @@
       }
     ],
     "Name": "Texas State",
-    "ID": 250
+    "ID": 250,
+    "state": "TX"
   }
 }

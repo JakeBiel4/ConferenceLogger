@@ -352,6 +352,7 @@
       }
     ],
     "Name": "George Washington",
-    "ID": 35
+    "ID": 35,
+    "state": "DC"
   }
 }

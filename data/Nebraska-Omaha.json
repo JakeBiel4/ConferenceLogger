@@ -352,6 +352,7 @@
       }
     ],
     "Name": "Nebraska-Omaha",
-    "ID": 400
+    "ID": 400,
+    "state": "NE"
   }
 }

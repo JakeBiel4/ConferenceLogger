@@ -352,6 +352,7 @@
       }
     ],
     "Name": "Western Oregon",
-    "ID": 170
+    "ID": 170,
+    "state": "OR"
   }
 }

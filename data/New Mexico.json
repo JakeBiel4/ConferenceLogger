@@ -352,6 +352,7 @@
       }
     ],
     "Name": "New Mexico",
-    "ID": 230
+    "ID": 230,
+    "state": "NM"
   }
 }

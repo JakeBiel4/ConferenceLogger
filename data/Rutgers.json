@@ -352,6 +352,7 @@
       }
     ],
     "Name": "Rutgers",
-    "ID": 2
+    "ID": 2,
+    "state": "NJ"
   }
 }

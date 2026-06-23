@@ -352,6 +352,7 @@
       }
     ],
     "Name": "Wayne State (NE)",
-    "ID": 401
+    "ID": 401,
+    "state": "NE"
   }
 }

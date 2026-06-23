@@ -352,6 +352,7 @@
       }
     ],
     "Name": "Phillips",
-    "ID": 373
+    "ID": 373,
+    "state": "OK"
   }
 }

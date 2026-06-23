@@ -352,6 +352,7 @@
       }
     ],
     "Name": "Providence",
-    "ID": 512
+    "ID": 512,
+    "state": "RI"
   }
 }

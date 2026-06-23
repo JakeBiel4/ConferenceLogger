@@ -19,16 +19,17 @@ app.get('/start', (req, res) => {
 app.post('/next', (req, res) => {
     let obj = fs.readFileSync('./data/' + files[point.count], 'utf8');
     obj = JSON.parse(obj);
-    obj.data.state = req.body.state;
+    obj.data.state = req.body.loci;
     fs.writeFileSync('./data/' + files[point.count], JSON.stringify(obj, null,2));
     point.count = point.count + 1;
+    console.log(files[point.count]);
     let next = fs.readFileSync('./data/' + files[point.count], 'utf8');
     next = JSON.parse(next);
     res.json(JSON.stringify({
-        "Name": obj.data.Name
+        "Name": next.data.Name
     }));
 });
-app.post('/save', (req, res) => {
+app.get('/save', (req, res) => {
     fs.writeFileSync('./states.json', JSON.stringify(point, null, 2));
 });
 app.listen(PORT, () => {

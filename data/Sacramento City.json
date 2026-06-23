@@ -352,6 +352,7 @@
       }
     ],
     "Name": "Sacramento City",
-    "ID": 439
+    "ID": 439,
+    "state": "CA"
   }
 }

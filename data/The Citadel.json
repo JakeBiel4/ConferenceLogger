@@ -352,6 +352,7 @@
       }
     ],
     "Name": "The Citadel",
-    "ID": 255
+    "ID": 255,
+    "state": "SC"
   }
 }

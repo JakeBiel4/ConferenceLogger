@@ -352,6 +352,7 @@
       }
     ],
     "Name": "Western Illinois",
-    "ID": 234
+    "ID": 234,
+    "state": "IL"
   }
 }

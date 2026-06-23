@@ -352,6 +352,7 @@
       }
     ],
     "Name": "McGill",
-    "ID": 8
+    "ID": 8,
+    "state": "QC"
   }
 }

@@ -352,6 +352,7 @@
       }
     ],
     "Name": "Whitworth",
-    "ID": 412
+    "ID": 412,
+    "state": "WA"
   }
 }

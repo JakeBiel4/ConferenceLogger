@@ -352,6 +352,7 @@
       }
     ],
     "Name": "Michigan State",
-    "ID": 208
+    "ID": 208,
+    "state": "MI"
   }
 }

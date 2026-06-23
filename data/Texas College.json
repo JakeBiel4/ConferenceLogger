@@ -352,6 +352,7 @@
       }
     ],
     "Name": "Texas College",
-    "ID": 433
+    "ID": 433,
+    "state": "TX"
   }
 }

@@ -352,6 +352,7 @@
       }
     ],
     "Name": "Indiana",
-    "ID": 64
+    "ID": 64,
+    "state": "IN"
   }
 }

@@ -352,6 +352,7 @@
       }
     ],
     "Name": "Franklin",
-    "ID": 257
+    "ID": 257,
+    "state": "IN"
   }
 }

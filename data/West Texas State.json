@@ -352,6 +352,7 @@
       }
     ],
     "Name": "West Texas State",
-    "ID": 467
+    "ID": 467,
+    "state": "TX"
   }
 }

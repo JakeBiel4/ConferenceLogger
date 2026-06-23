@@ -352,6 +352,7 @@
       }
     ],
     "Name": "Wayne State",
-    "ID": 370
+    "ID": 370,
+    "state": "MI"
   }
 }

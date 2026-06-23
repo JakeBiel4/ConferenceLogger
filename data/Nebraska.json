@@ -352,6 +352,7 @@
       }
     ],
     "Name": "Nebraska",
-    "ID": 95
+    "ID": 95,
+    "state": "NE"
   }
 }

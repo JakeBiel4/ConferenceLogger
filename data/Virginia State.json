@@ -352,6 +352,7 @@
       }
     ],
     "Name": "Virginia State",
-    "ID": 395
+    "ID": 395,
+    "state": "VA"
   }
 }

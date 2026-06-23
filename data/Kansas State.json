@@ -353,6 +353,7 @@
       }
     ],
     "Name": "Kansas State",
-    "ID": 200
+    "ID": 200,
+    "state": "KS"
   }
 }

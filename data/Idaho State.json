@@ -352,6 +352,7 @@
       }
     ],
     "Name": "Idaho State",
-    "ID": 245
+    "ID": 245,
+    "state": "ID"
   }
 }

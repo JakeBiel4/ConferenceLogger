@@ -352,6 +352,7 @@
       }
     ],
     "Name": "New Hampshire",
-    "ID": 149
+    "ID": 149,
+    "state": "NH"
   }
 }

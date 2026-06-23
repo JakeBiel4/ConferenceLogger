@@ -352,6 +352,7 @@
       }
     ],
     "Name": "North Carolina",
-    "ID": 72
+    "ID": 72,
+    "state": "NC"
   }
 }

@@ -352,6 +352,7 @@
       }
     ],
     "Name": "Manhattan",
-    "ID": 513
+    "ID": 513,
+    "state": "NY"
   }
 }

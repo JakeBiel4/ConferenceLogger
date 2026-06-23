@@ -352,6 +352,7 @@
       }
     ],
     "Name": "Springfield",
-    "ID": 90
+    "ID": 90,
+    "state": "MA"
   }
 }

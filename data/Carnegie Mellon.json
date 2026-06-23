@@ -352,6 +352,7 @@
       }
     ],
     "Name": "Carnegie Mellon",
-    "ID": 256
+    "ID": 256,
+    "state": "PA"
   }
 }

@@ -352,6 +352,7 @@
       }
     ],
     "Name": "Purdue",
-    "ID": 65
+    "ID": 65,
+    "state": "IN"
   }
 }

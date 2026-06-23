@@ -352,6 +352,7 @@
       }
     ],
     "Name": "Princeton",
-    "ID": 1
+    "ID": 1,
+    "state": "NJ"
   }
 }

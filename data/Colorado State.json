@@ -352,6 +352,7 @@
       }
     ],
     "Name": "Colorado State",
-    "ID": 115
+    "ID": 115,
+    "state": "CO"
   }
 }

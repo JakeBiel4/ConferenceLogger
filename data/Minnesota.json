@@ -352,6 +352,7 @@
       }
     ],
     "Name": "Minnesota",
-    "ID": 43
+    "ID": 43,
+    "state": "MN"
   }
 }

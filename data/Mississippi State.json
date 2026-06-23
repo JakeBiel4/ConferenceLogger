@@ -352,6 +352,7 @@
       }
     ],
     "Name": "Mississippi State",
-    "ID": 192
+    "ID": 192,
+    "state": "MS"
   }
 }

@@ -352,6 +352,7 @@
       }
     ],
     "Name": "South Carolina State",
-    "ID": 265
+    "ID": 265,
+    "state": "SC"
   }
 }

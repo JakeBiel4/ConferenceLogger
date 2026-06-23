@@ -352,6 +352,7 @@
       }
     ],
     "Name": "Alabama State",
-    "ID": 314
+    "ID": 314,
+    "state": "AL"
   }
 }

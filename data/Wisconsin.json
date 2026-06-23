@@ -352,6 +352,7 @@
       }
     ],
     "Name": "Wisconsin",
-    "ID": 80
+    "ID": 80,
+    "state": "WI"
   }
 }

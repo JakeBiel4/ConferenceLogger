@@ -352,6 +352,7 @@
       }
     ],
     "Name": "Florida State",
-    "ID": 236
+    "ID": 236,
+    "state": "FL"
   }
 }

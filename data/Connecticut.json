@@ -352,6 +352,7 @@
       }
     ],
     "Name": "Connecticut",
-    "ID": 196
+    "ID": 196,
+    "state": "CT"
   }
 }

@@ -352,6 +352,7 @@
       }
     ],
     "Name": "Pittsburgh",
-    "ID": 91
+    "ID": 91,
+    "state": "PA"
   }
 }

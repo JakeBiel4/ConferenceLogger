@@ -352,6 +352,7 @@
       }
     ],
     "Name": "Ohio Northern",
-    "ID": 246
+    "ID": 246,
+    "state": "OH"
   }
 }

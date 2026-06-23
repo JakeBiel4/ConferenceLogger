@@ -352,6 +352,7 @@
       }
     ],
     "Name": "Illinois State",
-    "ID": 448
+    "ID": 448,
+    "state": "IL"
   }
 }

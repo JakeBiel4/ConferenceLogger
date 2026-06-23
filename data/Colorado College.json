@@ -352,6 +352,7 @@
       }
     ],
     "Name": "Colorado College",
-    "ID": 40
+    "ID": 40,
+    "state": "CO"
   }
 }

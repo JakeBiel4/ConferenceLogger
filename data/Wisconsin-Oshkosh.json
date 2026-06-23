@@ -352,6 +352,7 @@
       }
     ],
     "Name": "Wisconsin-Oshkosh",
-    "ID": 310
+    "ID": 310,
+    "state": "WI"
   }
 }

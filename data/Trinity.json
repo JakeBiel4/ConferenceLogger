@@ -352,6 +352,7 @@
       }
     ],
     "Name": "Trinity",
-    "ID": 60
+    "ID": 60,
+    "state": "CT"
   }
 }

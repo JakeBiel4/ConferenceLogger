@@ -361,6 +361,7 @@
       }
     ],
     "Name": "Ohio State",
-    "ID": 101
+    "ID": 101,
+    "state": "OH"
   }
 }

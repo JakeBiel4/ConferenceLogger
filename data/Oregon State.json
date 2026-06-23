@@ -361,6 +361,7 @@
       }
     ],
     "Name": "Oregon State",
-    "ID": 167
+    "ID": 167,
+    "state": "OR"
   }
 }

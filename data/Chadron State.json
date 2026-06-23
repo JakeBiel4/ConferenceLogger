@@ -352,6 +352,7 @@
       }
     ],
     "Name": "Chadron State",
-    "ID": 425
+    "ID": 425,
+    "state": "NE"
   }
 }

@@ -352,6 +352,7 @@
       }
     ],
     "Name": "Cornell",
-    "ID": 61
+    "ID": 61,
+    "state": "NY"
   }
 }

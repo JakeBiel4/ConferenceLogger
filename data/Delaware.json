@@ -352,6 +352,7 @@
       }
     ],
     "Name": "Delaware",
-    "ID": 81
+    "ID": 81,
+    "state": "DE"
   }
 }

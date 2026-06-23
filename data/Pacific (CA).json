@@ -352,6 +352,7 @@
       }
     ],
     "Name": "Pacific (CA)",
-    "ID": 377
+    "ID": 377,
+    "state": "CA"
   }
 }

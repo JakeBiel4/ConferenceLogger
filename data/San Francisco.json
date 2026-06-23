@@ -352,6 +352,7 @@
       }
     ],
     "Name": "San Francisco",
-    "ID": 520
+    "ID": 520,
+    "state": "CA"
   }
 }

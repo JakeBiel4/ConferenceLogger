@@ -352,6 +352,7 @@
       }
     ],
     "Name": "Arkansas State",
-    "ID": 341
+    "ID": 341,
+    "state": "AR"
   }
 }

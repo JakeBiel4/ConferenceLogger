@@ -352,6 +352,7 @@
       }
     ],
     "Name": "Colorado",
-    "ID": 86
+    "ID": 86,
+    "state": "CO"
   }
 }
