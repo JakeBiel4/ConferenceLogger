@@ -353,6 +353,10 @@
     ],
     "Name": "Canterbury",
     "ID": 478,
-    "state": "IN"
+    "state": {
+      "name": "Indiana",
+      "code": "IN",
+      "country": "USA"
+    }
   }
 }

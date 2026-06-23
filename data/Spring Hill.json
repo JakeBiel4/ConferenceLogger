@@ -353,6 +353,10 @@
     ],
     "Name": "Spring Hill",
     "ID": 224,
-    "state": "AL"
+    "state": {
+      "name": "Alabama",
+      "code": "AL",
+      "country": "USA"
+    }
   }
 }

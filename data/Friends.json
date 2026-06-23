@@ -353,6 +353,10 @@
     ],
     "Name": "Friends",
     "ID": 299,
-    "state": "KS"
+    "state": {
+      "name": "Kansas",
+      "code": "KS",
+      "country": "USA"
+    }
   }
 }

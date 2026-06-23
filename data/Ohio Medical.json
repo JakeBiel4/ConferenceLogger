@@ -353,6 +353,10 @@
     ],
     "Name": "Ohio Medical",
     "ID": 220,
-    "state": "OH"
+    "state": {
+      "name": "Ohio",
+      "code": "OH",
+      "country": "USA"
+    }
   }
 }

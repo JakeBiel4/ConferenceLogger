@@ -353,6 +353,10 @@
     ],
     "Name": "Arizona State",
     "ID": 213,
-    "state": "AZ"
+    "state": {
+      "name": "Arizona",
+      "code": "AZ",
+      "country": "USA"
+    }
   }
 }

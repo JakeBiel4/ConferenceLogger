@@ -353,6 +353,10 @@
     ],
     "Name": "Johns Hopkins",
     "ID": 44,
-    "state": "MD"
+    "state": {
+      "name": "Maryland",
+      "code": "MD",
+      "country": "USA"
+    }
   }
 }

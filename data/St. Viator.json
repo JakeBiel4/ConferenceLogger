@@ -355,6 +355,10 @@
     ],
     "Name": "St. Viator",
     "ID": 267,
-    "state": "IL"
+    "state": {
+      "name": "Illinois",
+      "code": "IL",
+      "country": "USA"
+    }
   }
 }

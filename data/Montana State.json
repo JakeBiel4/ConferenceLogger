@@ -353,6 +353,10 @@
     ],
     "Name": "Montana State",
     "ID": 212,
-    "state": "MT"
+    "state": {
+      "name": "Montana",
+      "code": "MT",
+      "country": "USA"
+    }
   }
 }

@@ -353,6 +353,10 @@
     ],
     "Name": "Gonzaga",
     "ID": 142,
-    "state": "WA"
+    "state": {
+      "name": "Washington",
+      "code": "WA",
+      "country": "USA"
+    }
   }
 }

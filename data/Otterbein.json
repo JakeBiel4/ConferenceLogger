@@ -353,6 +353,10 @@
     ],
     "Name": "Otterbein",
     "ID": 427,
-    "state": "OH"
+    "state": {
+      "name": "Ohio",
+      "code": "OH",
+      "country": "USA"
+    }
   }
 }

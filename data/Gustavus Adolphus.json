@@ -353,6 +353,10 @@
     ],
     "Name": "Gustavus Adolphus",
     "ID": 398,
-    "state": "MN"
+    "state": {
+      "name": "Minnesota",
+      "code": "MN",
+      "country": "USA"
+    }
   }
 }

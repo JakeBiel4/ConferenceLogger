@@ -353,6 +353,10 @@
     ],
     "Name": "Dayton",
     "ID": 254,
-    "state": "OH"
+    "state": {
+      "name": "Ohio",
+      "code": "OH",
+      "country": "USA"
+    }
   }
 }

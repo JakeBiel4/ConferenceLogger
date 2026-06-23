@@ -353,6 +353,10 @@
     ],
     "Name": "Vincennes",
     "ID": 502,
-    "state": "IN"
+    "state": {
+      "name": "Indiana",
+      "code": "IN",
+      "country": "USA"
+    }
   }
 }

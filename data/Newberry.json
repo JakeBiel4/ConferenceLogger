@@ -353,6 +353,10 @@
     ],
     "Name": "Newberry",
     "ID": 493,
-    "state": "SC"
+    "state": {
+      "name": "South Carolina",
+      "code": "SC",
+      "country": "USA"
+    }
   }
 }

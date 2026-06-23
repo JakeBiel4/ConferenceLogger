@@ -353,6 +353,10 @@
     ],
     "Name": "Chadron State",
     "ID": 425,
-    "state": "NE"
+    "state": {
+      "name": "Nebraska",
+      "code": "NE",
+      "country": "USA"
+    }
   }
 }

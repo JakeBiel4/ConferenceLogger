@@ -353,6 +353,10 @@
     ],
     "Name": "LSU",
     "ID": 163,
-    "state": "LA"
+    "state": {
+      "name": "Louisiana",
+      "code": "LA",
+      "country": "USA"
+    }
   }
 }

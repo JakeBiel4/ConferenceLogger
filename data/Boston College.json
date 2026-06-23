@@ -353,6 +353,10 @@
     ],
     "Name": "Boston College",
     "ID": 147,
-    "state": "MA"
+    "state": {
+      "name": "Massachusetts",
+      "code": "MA",
+      "country": "USA"
+    }
   }
 }

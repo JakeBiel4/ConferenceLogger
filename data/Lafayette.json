@@ -353,6 +353,10 @@
     ],
     "Name": "Lafayette",
     "ID": 45,
-    "state": "PA"
+    "state": {
+      "name": "Pennsylvania",
+      "code": "PA",
+      "country": "USA"
+    }
   }
 }

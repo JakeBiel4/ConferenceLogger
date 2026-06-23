@@ -353,6 +353,10 @@
     ],
     "Name": "Southwestern Oklahoma State",
     "ID": 459,
-    "state": "OK"
+    "state": {
+      "name": "Oklahoma",
+      "code": "OK",
+      "country": "USA"
+    }
   }
 }

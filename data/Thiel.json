@@ -353,6 +353,10 @@
     ],
     "Name": "Thiel",
     "ID": 505,
-    "state": "PA"
+    "state": {
+      "name": "Pennsylvania",
+      "code": "PA",
+      "country": "USA"
+    }
   }
 }

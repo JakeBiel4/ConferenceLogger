@@ -353,6 +353,10 @@
     ],
     "Name": "Holy Cross",
     "ID": 197,
-    "state": "MA"
+    "state": {
+      "name": "Massachusetts",
+      "code": "MA",
+      "country": "USA"
+    }
   }
 }

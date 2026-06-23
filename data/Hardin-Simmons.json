@@ -353,6 +353,10 @@
     ],
     "Name": "Hardin-Simmons",
     "ID": 434,
-    "state": "TX"
+    "state": {
+      "name": "Texas",
+      "code": "TX",
+      "country": "USA"
+    }
   }
 }

@@ -86,6 +86,11 @@ app.post('/fill', (req, res) => {
         }
     });
 });
+app.get('/states', (req, res) => {
+    let point = fs.readFileSync('./states.json');
+    point = JSON.parse(point);
+    res.json(point);
+})
 app.listen(PORT, () => {
     console.log("Server running on " + PORT);
 });

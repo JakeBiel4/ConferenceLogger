@@ -353,6 +353,10 @@
     ],
     "Name": "Franklin",
     "ID": 257,
-    "state": "IN"
+    "state": {
+      "name": "Indiana",
+      "code": "IN",
+      "country": "USA"
+    }
   }
 }

@@ -353,6 +353,10 @@
     ],
     "Name": "Rose-Hulman",
     "ID": 270,
-    "state": "IN"
+    "state": {
+      "name": "Indiana",
+      "code": "IN",
+      "country": "USA"
+    }
   }
 }

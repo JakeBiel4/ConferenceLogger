@@ -353,6 +353,10 @@
     ],
     "Name": "Carlisle",
     "ID": 146,
-    "state": "PA"
+    "state": {
+      "name": "Pennsylvania",
+      "code": "PA",
+      "country": "USA"
+    }
   }
 }

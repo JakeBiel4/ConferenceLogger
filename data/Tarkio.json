@@ -353,6 +353,10 @@
     ],
     "Name": "Tarkio",
     "ID": 350,
-    "state": "MO"
+    "state": {
+      "name": "Missouri",
+      "code": "MO",
+      "country": "USA"
+    }
   }
 }

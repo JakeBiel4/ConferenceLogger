@@ -353,6 +353,10 @@
     ],
     "Name": "UI Chicago",
     "ID": 184,
-    "state": "IL"
+    "state": {
+      "name": "Illinois",
+      "code": "IL",
+      "country": "USA"
+    }
   }
 }

@@ -353,6 +353,10 @@
     ],
     "Name": "Adrian",
     "ID": 269,
-    "state": "MI"
+    "state": {
+      "name": "Michigan",
+      "code": "MI",
+      "country": "USA"
+    }
   }
 }

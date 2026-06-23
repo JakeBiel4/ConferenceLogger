@@ -353,6 +353,10 @@
     ],
     "Name": "Fairmont State",
     "ID": 532,
-    "state": "WV"
+    "state": {
+      "name": "West Virginia",
+      "code": "WV",
+      "country": "USA"
+    }
   }
 }

@@ -354,6 +354,10 @@
     ],
     "Name": "Loyola New Orleans",
     "ID": 415,
-    "state": "LA"
+    "state": {
+      "name": "Louisiana",
+      "code": "LA",
+      "country": "USA"
+    }
   }
 }

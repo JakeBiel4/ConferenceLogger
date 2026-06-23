@@ -353,6 +353,10 @@
     ],
     "Name": "Colorado Mines",
     "ID": 85,
-    "state": "CO"
+    "state": {
+      "name": "Colorado",
+      "code": "CO",
+      "country": "USA"
+    }
   }
 }

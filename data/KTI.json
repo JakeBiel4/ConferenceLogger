@@ -353,6 +353,10 @@
     ],
     "Name": "KTI",
     "ID": 382,
-    "state": "KS"
+    "state": {
+      "name": "Kansas",
+      "code": "KS",
+      "country": "USA"
+    }
   }
 }

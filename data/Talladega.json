@@ -353,6 +353,10 @@
     ],
     "Name": "Talladega",
     "ID": 321,
-    "state": "AL"
+    "state": {
+      "name": "Alabama",
+      "code": "AL",
+      "country": "USA"
+    }
   }
 }

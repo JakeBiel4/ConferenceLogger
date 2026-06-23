@@ -353,6 +353,10 @@
     ],
     "Name": "Augustana",
     "ID": 450,
-    "state": "IL"
+    "state": {
+      "name": "Illinois",
+      "code": "IL",
+      "country": "USA"
+    }
   }
 }

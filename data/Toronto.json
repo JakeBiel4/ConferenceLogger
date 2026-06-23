@@ -353,6 +353,10 @@
     ],
     "Name": "Toronto",
     "ID": 26,
-    "state": "OT"
+    "state": {
+      "name": "Ontario",
+      "code": "OT",
+      "country": "Canada"
+    }
   }
 }

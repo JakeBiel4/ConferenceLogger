@@ -353,6 +353,10 @@
     ],
     "Name": "McDaniel",
     "ID": 132,
-    "state": "MD"
+    "state": {
+      "name": "Maryland",
+      "code": "MD",
+      "country": "USA"
+    }
   }
 }

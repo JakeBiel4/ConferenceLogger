@@ -353,6 +353,10 @@
     ],
     "Name": "Salem",
     "ID": 531,
-    "state": "WV"
+    "state": {
+      "name": "West Virginia",
+      "code": "WV",
+      "country": "USA"
+    }
   }
 }

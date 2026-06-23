@@ -353,6 +353,10 @@
     ],
     "Name": "Shaw",
     "ID": 288,
-    "state": "NC"
+    "state": {
+      "name": "North Carolina",
+      "code": "NC",
+      "country": "USA"
+    }
   }
 }

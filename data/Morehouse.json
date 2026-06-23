@@ -353,6 +353,10 @@
     ],
     "Name": "Morehouse",
     "ID": 319,
-    "state": "GA"
+    "state": {
+      "name": "Georgia",
+      "code": "GA",
+      "country": "USA"
+    }
   }
 }

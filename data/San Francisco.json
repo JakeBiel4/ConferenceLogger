@@ -353,6 +353,10 @@
     ],
     "Name": "San Francisco",
     "ID": 520,
-    "state": "CA"
+    "state": {
+      "name": "California",
+      "code": "CA",
+      "country": "USA"
+    }
   }
 }

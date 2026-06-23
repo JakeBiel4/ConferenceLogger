@@ -354,6 +354,10 @@
     ],
     "Name": "Oklahoma State",
     "ID": 225,
-    "state": "OK"
+    "state": {
+      "name": "Oklahoma",
+      "code": "OK",
+      "country": "USA"
+    }
   }
 }

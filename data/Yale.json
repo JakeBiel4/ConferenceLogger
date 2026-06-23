@@ -353,6 +353,10 @@
     ],
     "Name": "Yale",
     "ID": 4,
-    "state": "CT"
+    "state": {
+      "name": "Connecticut",
+      "code": "CT",
+      "country": "USA"
+    }
   }
 }

@@ -353,6 +353,10 @@
     ],
     "Name": "Western Oregon",
     "ID": 170,
-    "state": "OR"
+    "state": {
+      "name": "Oregon",
+      "code": "OR",
+      "country": "USA"
+    }
   }
 }

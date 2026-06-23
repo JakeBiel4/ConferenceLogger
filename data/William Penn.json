@@ -353,6 +353,10 @@
     ],
     "Name": "William Penn",
     "ID": 333,
-    "state": "IA"
+    "state": {
+      "name": "Iowa",
+      "code": "IA",
+      "country": "USA"
+    }
   }
 }

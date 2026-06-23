@@ -353,6 +353,10 @@
     ],
     "Name": "York",
     "ID": 364,
-    "state": "NE"
+    "state": {
+      "name": "Nebraska",
+      "code": "NE",
+      "country": "USA"
+    }
   }
 }

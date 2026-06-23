@@ -353,6 +353,10 @@
     ],
     "Name": "St. Bonaventure",
     "ID": 276,
-    "state": "NY"
+    "state": {
+      "name": "New York",
+      "code": "NY",
+      "country": "USA"
+    }
   }
 }

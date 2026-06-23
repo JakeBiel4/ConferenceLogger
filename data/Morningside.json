@@ -356,6 +356,10 @@
     ],
     "Name": "Morningside",
     "ID": 365,
-    "state": "IA"
+    "state": {
+      "name": "Iowa",
+      "code": "IA",
+      "country": "USA"
+    }
   }
 }

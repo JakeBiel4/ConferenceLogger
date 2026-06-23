@@ -353,6 +353,10 @@
     ],
     "Name": "Central",
     "ID": 111,
-    "state": "KY"
+    "state": {
+      "name": "Kentucky",
+      "code": "KY",
+      "country": "USA"
+    }
   }
 }

@@ -353,6 +353,10 @@
     ],
     "Name": "Christian Brothers",
     "ID": 293,
-    "state": "MO"
+    "state": {
+      "name": "Missouri",
+      "code": "MO",
+      "country": "USA"
+    }
   }
 }

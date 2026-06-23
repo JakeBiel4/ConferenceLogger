@@ -355,6 +355,10 @@
     ],
     "Name": "St. Thomas",
     "ID": 335,
-    "state": "MN"
+    "state": {
+      "name": "Minnesota",
+      "code": "MN",
+      "country": "USA"
+    }
   }
 }

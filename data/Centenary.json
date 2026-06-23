@@ -353,6 +353,10 @@
     ],
     "Name": "Centenary",
     "ID": 179,
-    "state": "LA"
+    "state": {
+      "name": "Louisiana",
+      "code": "LA",
+      "country": "USA"
+    }
   }
 }

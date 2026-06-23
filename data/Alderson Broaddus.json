@@ -353,6 +353,10 @@
     ],
     "Name": "Alderson Broaddus",
     "ID": 534,
-    "state": "WV"
+    "state": {
+      "name": "West Virginia",
+      "code": "WV",
+      "country": "USA"
+    }
   }
 }

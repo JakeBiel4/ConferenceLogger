@@ -353,6 +353,10 @@
     ],
     "Name": "Kansas Wesleyan",
     "ID": 345,
-    "state": "KS"
+    "state": {
+      "name": "Kansas",
+      "code": "KS",
+      "country": "USA"
+    }
   }
 }

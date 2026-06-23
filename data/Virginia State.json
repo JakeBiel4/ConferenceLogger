@@ -353,6 +353,10 @@
     ],
     "Name": "Virginia State",
     "ID": 395,
-    "state": "VA"
+    "state": {
+      "name": "Virginia",
+      "code": "VA",
+      "country": "USA"
+    }
   }
 }

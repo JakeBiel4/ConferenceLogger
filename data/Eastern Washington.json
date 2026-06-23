@@ -355,6 +355,10 @@
     ],
     "Name": "Eastern Washington",
     "ID": 284,
-    "state": "WA"
+    "state": {
+      "name": "Washington",
+      "code": "WA",
+      "country": "USA"
+    }
   }
 }

@@ -353,6 +353,10 @@
     ],
     "Name": "Indiana",
     "ID": 64,
-    "state": "IN"
+    "state": {
+      "name": "Indiana",
+      "code": "IN",
+      "country": "USA"
+    }
   }
 }

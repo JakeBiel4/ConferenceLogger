@@ -353,6 +353,10 @@
     ],
     "Name": "Central Michigan",
     "ID": 198,
-    "state": "MI"
+    "state": {
+      "name": "Michigan",
+      "code": "MI",
+      "country": "USA"
+    }
   }
 }

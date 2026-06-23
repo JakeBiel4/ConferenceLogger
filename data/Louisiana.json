@@ -355,6 +355,10 @@
     ],
     "Name": "Louisiana",
     "ID": 222,
-    "state": "LA"
+    "state": {
+      "name": "Louisiana",
+      "code": "LA",
+      "country": "USA"
+    }
   }
 }

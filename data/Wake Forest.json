@@ -353,6 +353,10 @@
     ],
     "Name": "Wake Forest",
     "ID": 71,
-    "state": "NC"
+    "state": {
+      "name": "North Carolina",
+      "code": "NC",
+      "country": "USA"
+    }
   }
 }

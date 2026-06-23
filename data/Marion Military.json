@@ -353,6 +353,10 @@
     ],
     "Name": "Marion Military",
     "ID": 375,
-    "state": "AL"
+    "state": {
+      "name": "Alabama",
+      "code": "AL",
+      "country": "USA"
+    }
   }
 }

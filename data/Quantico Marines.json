@@ -353,6 +353,10 @@
     ],
     "Name": "Quantico Marines",
     "ID": 471,
-    "state": "VA"
+    "state": {
+      "name": "Virginia",
+      "code": "VA",
+      "country": "USA"
+    }
   }
 }

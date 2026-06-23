@@ -353,6 +353,10 @@
     ],
     "Name": "Springfield",
     "ID": 90,
-    "state": "MA"
+    "state": {
+      "name": "Massachusetts",
+      "code": "MA",
+      "country": "USA"
+    }
   }
 }

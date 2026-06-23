@@ -353,6 +353,10 @@
     ],
     "Name": "Eastern Michigan",
     "ID": 109,
-    "state": "MI"
+    "state": {
+      "name": "Michigan",
+      "code": "MI",
+      "country": "USA"
+    }
   }
 }

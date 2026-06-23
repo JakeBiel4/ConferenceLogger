@@ -353,6 +353,10 @@
     ],
     "Name": "Princeton Seminary",
     "ID": 12,
-    "state": "NJ"
+    "state": {
+      "name": "New Jersey",
+      "code": "NJ",
+      "country": "USA"
+    }
   }
 }

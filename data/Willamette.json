@@ -353,6 +353,10 @@
     ],
     "Name": "Willamette",
     "ID": 344,
-    "state": "OR"
+    "state": {
+      "name": "Oregon",
+      "code": "OR",
+      "country": "USA"
+    }
   }
 }

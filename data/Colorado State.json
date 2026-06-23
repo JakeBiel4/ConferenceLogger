@@ -353,6 +353,10 @@
     ],
     "Name": "Colorado State",
     "ID": 115,
-    "state": "CO"
+    "state": {
+      "name": "Colorado",
+      "code": "CO",
+      "country": "USA"
+    }
   }
 }

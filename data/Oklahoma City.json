@@ -353,6 +353,10 @@
     ],
     "Name": "Oklahoma City",
     "ID": 463,
-    "state": "OK"
+    "state": {
+      "name": "Oklahoma",
+      "code": "OK",
+      "country": "USA"
+    }
   }
 }

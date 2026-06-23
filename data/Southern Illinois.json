@@ -353,6 +353,10 @@
     ],
     "Name": "Southern Illinois",
     "ID": 274,
-    "state": "IL"
+    "state": {
+      "name": "Illinois",
+      "code": "IL",
+      "country": "USA"
+    }
   }
 }

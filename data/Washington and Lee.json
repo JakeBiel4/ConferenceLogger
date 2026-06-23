@@ -353,6 +353,10 @@
     ],
     "Name": "Washington and Lee",
     "ID": 7,
-    "state": "VA"
+    "state": {
+      "name": "Virginia",
+      "code": "VA",
+      "country": "USA"
+    }
   }
 }

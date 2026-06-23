@@ -353,6 +353,10 @@
     ],
     "Name": "Bethel",
     "ID": 362,
-    "state": "KS"
+    "state": {
+      "name": "Kansas",
+      "code": "KS",
+      "country": "USA"
+    }
   }
 }

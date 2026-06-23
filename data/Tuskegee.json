@@ -353,6 +353,10 @@
     ],
     "Name": "Tuskegee",
     "ID": 322,
-    "state": "AL"
+    "state": {
+      "name": "Alabama",
+      "code": "AL",
+      "country": "USA"
+    }
   }
 }

@@ -353,6 +353,10 @@
     ],
     "Name": "Dartmouth",
     "ID": 36,
-    "state": "NH"
+    "state": {
+      "name": "New Hampshire",
+      "code": "NH",
+      "country": "USA"
+    }
   }
 }

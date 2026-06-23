@@ -353,6 +353,10 @@
     ],
     "Name": "Wisconsin-Superior",
     "ID": 306,
-    "state": "WI"
+    "state": {
+      "name": "Wisconsin",
+      "code": "WI",
+      "country": "USA"
+    }
   }
 }

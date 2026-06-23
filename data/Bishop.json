@@ -353,6 +353,10 @@
     ],
     "Name": "Bishop",
     "ID": 429,
-    "state": "TX"
+    "state": {
+      "name": "Texas",
+      "code": "TX",
+      "country": "USA"
+    }
   }
 }

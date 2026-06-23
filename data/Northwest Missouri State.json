@@ -353,6 +353,10 @@
     ],
     "Name": "Northwest Missouri State",
     "ID": 363,
-    "state": "MO"
+    "state": {
+      "name": "Missouri",
+      "code": "MO",
+      "country": "USA"
+    }
   }
 }

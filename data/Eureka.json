@@ -353,6 +353,10 @@
     ],
     "Name": "Eureka",
     "ID": 444,
-    "state": "IL"
+    "state": {
+      "name": "Illinois",
+      "code": "IL",
+      "country": "USA"
+    }
   }
 }

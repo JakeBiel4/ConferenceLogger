@@ -353,6 +353,10 @@
     ],
     "Name": "Duke",
     "ID": 70,
-    "state": "NC"
+    "state": {
+      "name": "North Carolina",
+      "code": "NC",
+      "country": "USA"
+    }
   }
 }

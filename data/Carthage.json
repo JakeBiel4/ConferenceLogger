@@ -353,6 +353,10 @@
     ],
     "Name": "Carthage",
     "ID": 183,
-    "state": "IL"
+    "state": {
+      "name": "Illinois",
+      "code": "IL",
+      "country": "USA"
+    }
   }
 }

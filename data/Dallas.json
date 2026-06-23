@@ -353,6 +353,10 @@
     ],
     "Name": "Dallas",
     "ID": 340,
-    "state": "TX"
+    "state": {
+      "name": "Texas",
+      "code": "TX",
+      "country": "USA"
+    }
   }
 }

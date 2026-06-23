@@ -353,6 +353,10 @@
     ],
     "Name": "Eastern Illinois",
     "ID": 442,
-    "state": "IL"
+    "state": {
+      "name": "Illinois",
+      "code": "IL",
+      "country": "USA"
+    }
   }
 }

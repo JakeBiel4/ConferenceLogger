@@ -353,6 +353,10 @@
     ],
     "Name": "East Central State",
     "ID": 460,
-    "state": "OK"
+    "state": {
+      "name": "Oklahoma",
+      "code": "OK",
+      "country": "USA"
+    }
   }
 }

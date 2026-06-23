@@ -353,6 +353,10 @@
     ],
     "Name": "Middle Tennessee State",
     "ID": 277,
-    "state": "TN"
+    "state": {
+      "name": "Tennessee",
+      "code": "TN",
+      "country": "USA"
+    }
   }
 }

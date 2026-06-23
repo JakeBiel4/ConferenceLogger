@@ -353,6 +353,10 @@
     ],
     "Name": "Florida A&M",
     "ID": 413,
-    "state": "FL"
+    "state": {
+      "name": "Florida",
+      "code": "FL",
+      "country": "USA"
+    }
   }
 }

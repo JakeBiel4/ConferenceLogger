@@ -353,6 +353,10 @@
     ],
     "Name": "Central Oklahoma",
     "ID": 238,
-    "state": "OK"
+    "state": {
+      "name": "Oklahoma",
+      "code": "OK",
+      "country": "USA"
+    }
   }
 }

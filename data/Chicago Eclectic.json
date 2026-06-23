@@ -353,6 +353,10 @@
     ],
     "Name": "Chicago Eclectic",
     "ID": 221,
-    "state": "IL"
+    "state": {
+      "name": "Illinois",
+      "code": "IL",
+      "country": "USA"
+    }
   }
 }

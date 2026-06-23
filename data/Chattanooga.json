@@ -353,6 +353,10 @@
     ],
     "Name": "Chattanooga",
     "ID": 251,
-    "state": "TN"
+    "state": {
+      "name": "Tennessee",
+      "code": "TN",
+      "country": "USA"
+    }
   }
 }

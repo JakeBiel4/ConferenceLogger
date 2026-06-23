@@ -362,6 +362,10 @@
     ],
     "Name": "Ohio State",
     "ID": 101,
-    "state": "OH"
+    "state": {
+      "name": "Ohio",
+      "code": "OH",
+      "country": "USA"
+    }
   }
 }

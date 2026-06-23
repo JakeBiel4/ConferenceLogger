@@ -353,6 +353,10 @@
     ],
     "Name": "Nevada",
     "ID": 207,
-    "state": "NV"
+    "state": {
+      "name": "Nevada",
+      "code": "NV",
+      "country": "USA"
+    }
   }
 }

@@ -353,6 +353,10 @@
     ],
     "Name": "Nashville",
     "ID": 106,
-    "state": "TN"
+    "state": {
+      "name": "Tennessee",
+      "code": "TN",
+      "country": "USA"
+    }
   }
 }

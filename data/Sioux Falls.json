@@ -353,6 +353,10 @@
     ],
     "Name": "Sioux Falls",
     "ID": 407,
-    "state": "SD"
+    "state": {
+      "name": "South Dakota",
+      "code": "SD",
+      "country": "USA"
+    }
   }
 }

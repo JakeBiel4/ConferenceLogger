@@ -353,6 +353,10 @@
     ],
     "Name": "Black Hills State",
     "ID": 464,
-    "state": "SD"
+    "state": {
+      "name": "South Dakota",
+      "code": "SD",
+      "country": "USA"
+    }
   }
 }

@@ -353,6 +353,10 @@
     ],
     "Name": "Truman State",
     "ID": 266,
-    "state": "MO"
+    "state": {
+      "name": "Missouri",
+      "code": "MO",
+      "country": "USA"
+    }
   }
 }

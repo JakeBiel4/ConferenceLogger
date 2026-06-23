@@ -353,6 +353,10 @@
     ],
     "Name": "E.F. Seminary",
     "ID": 237,
-    "state": "FL"
+    "state": {
+      "name": "Florida",
+      "code": "FL",
+      "country": "USA"
+    }
   }
 }

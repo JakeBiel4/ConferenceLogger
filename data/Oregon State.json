@@ -362,6 +362,10 @@
     ],
     "Name": "Oregon State",
     "ID": 167,
-    "state": "OR"
+    "state": {
+      "name": "Oregon",
+      "code": "OR",
+      "country": "USA"
+    }
   }
 }

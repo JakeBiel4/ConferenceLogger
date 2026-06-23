@@ -353,6 +353,10 @@
     ],
     "Name": "St. Olaf",
     "ID": 397,
-    "state": "MN"
+    "state": {
+      "name": "Minnesota",
+      "code": "MN",
+      "country": "USA"
+    }
   }
 }

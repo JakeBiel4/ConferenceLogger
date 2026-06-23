@@ -353,6 +353,10 @@
     ],
     "Name": "Providence",
     "ID": 512,
-    "state": "RI"
+    "state": {
+      "name": "Rhode Island",
+      "code": "RI",
+      "country": "USA"
+    }
   }
 }

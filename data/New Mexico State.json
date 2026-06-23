@@ -353,6 +353,10 @@
     ],
     "Name": "New Mexico State",
     "ID": 181,
-    "state": "NM"
+    "state": {
+      "name": "New Mexico",
+      "code": "NM",
+      "country": "USA"
+    }
   }
 }

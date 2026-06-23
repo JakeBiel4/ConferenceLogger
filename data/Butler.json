@@ -353,6 +353,10 @@
     ],
     "Name": "Butler",
     "ID": 51,
-    "state": "IN"
+    "state": {
+      "name": "Indiana",
+      "code": "IN",
+      "country": "USA"
+    }
   }
 }

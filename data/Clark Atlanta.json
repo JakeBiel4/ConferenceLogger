@@ -353,6 +353,10 @@
     ],
     "Name": "Clark Atlanta",
     "ID": 316,
-    "state": "GA"
+    "state": {
+      "name": "Georgia",
+      "code": "GA",
+      "country": "USA"
+    }
   }
 }

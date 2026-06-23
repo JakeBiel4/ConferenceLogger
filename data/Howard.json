@@ -353,6 +353,10 @@
     ],
     "Name": "Howard",
     "ID": 158,
-    "state": "DC"
+    "state": {
+      "name": "Washington D.C.",
+      "code": "DC",
+      "country": "USA"
+    }
   }
 }

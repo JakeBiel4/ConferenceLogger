@@ -353,6 +353,10 @@
     ],
     "Name": "Arkansas",
     "ID": 177,
-    "state": "AR"
+    "state": {
+      "name": "Arkansas",
+      "code": "AR",
+      "country": "USA"
+    }
   }
 }

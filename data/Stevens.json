@@ -353,6 +353,10 @@
     ],
     "Name": "Stevens",
     "ID": 5,
-    "state": "NJ"
+    "state": {
+      "name": "New Jersey",
+      "code": "NJ",
+      "country": "USA"
+    }
   }
 }

@@ -355,6 +355,10 @@
     ],
     "Name": "LCU",
     "ID": 492,
-    "state": "LA"
+    "state": {
+      "name": "Louisiana",
+      "code": "LA",
+      "country": "USA"
+    }
   }
 }

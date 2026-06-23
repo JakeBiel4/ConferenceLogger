@@ -353,6 +353,10 @@
     ],
     "Name": "Potomac State",
     "ID": 533,
-    "state": "WV"
+    "state": {
+      "name": "West Virginia",
+      "code": "WV",
+      "country": "USA"
+    }
   }
 }

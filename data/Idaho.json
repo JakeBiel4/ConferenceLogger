@@ -357,6 +357,10 @@
     ],
     "Name": "Idaho",
     "ID": 168,
-    "state": "ID"
+    "state": {
+      "name": "Idaho",
+      "code": "ID",
+      "country": "USA"
+    }
   }
 }

@@ -353,6 +353,10 @@
     ],
     "Name": "Texas Tech",
     "ID": 515,
-    "state": "TX"
+    "state": {
+      "name": "Texas",
+      "code": "TX",
+      "country": "USA"
+    }
   }
 }

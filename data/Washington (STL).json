@@ -353,6 +353,10 @@
     ],
     "Name": "Washington (STL)",
     "ID": 63,
-    "state": "MO"
+    "state": {
+      "name": "Missouri",
+      "code": "MO",
+      "country": "USA"
+    }
   }
 }

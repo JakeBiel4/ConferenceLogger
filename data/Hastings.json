@@ -353,6 +353,10 @@
     ],
     "Name": "Hastings",
     "ID": 384,
-    "state": "NE"
+    "state": {
+      "name": "Nebraska",
+      "code": "NE",
+      "country": "USA"
+    }
   }
 }

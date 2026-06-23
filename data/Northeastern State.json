@@ -353,6 +353,10 @@
     ],
     "Name": "Northeastern State",
     "ID": 503,
-    "state": "OK"
+    "state": {
+      "name": "Oklahoma",
+      "code": "OK",
+      "country": "USA"
+    }
   }
 }

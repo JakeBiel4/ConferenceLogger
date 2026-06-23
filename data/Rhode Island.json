@@ -353,6 +353,10 @@
     ],
     "Name": "Rhode Island",
     "ID": 182,
-    "state": "RI"
+    "state": {
+      "name": "Rhode Island",
+      "code": "RI",
+      "country": "USA"
+    }
   }
 }

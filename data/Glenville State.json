@@ -353,6 +353,10 @@
     ],
     "Name": "Glenville State",
     "ID": 536,
-    "state": "WV"
+    "state": {
+      "name": "West Virginia",
+      "code": "WV",
+      "country": "USA"
+    }
   }
 }

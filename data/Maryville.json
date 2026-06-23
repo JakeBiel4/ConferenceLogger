@@ -353,6 +353,10 @@
     ],
     "Name": "Maryville",
     "ID": 136,
-    "state": "TN"
+    "state": {
+      "name": "Tennessee",
+      "code": "TN",
+      "country": "USA"
+    }
   }
 }

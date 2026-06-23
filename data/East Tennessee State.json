@@ -353,6 +353,10 @@
     ],
     "Name": "East Tennessee State",
     "ID": 393,
-    "state": "TN"
+    "state": {
+      "name": "Tennessee",
+      "code": "TN",
+      "country": "USA"
+    }
   }
 }

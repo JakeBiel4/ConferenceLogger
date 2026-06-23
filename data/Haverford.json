@@ -353,6 +353,10 @@
     ],
     "Name": "Haverford",
     "ID": 24,
-    "state": "PA"
+    "state": {
+      "name": "Pennsylvania",
+      "code": "PA",
+      "country": "USA"
+    }
   }
 }

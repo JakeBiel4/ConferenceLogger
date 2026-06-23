@@ -353,6 +353,10 @@
     ],
     "Name": "Lombard",
     "ID": 441,
-    "state": "IL"
+    "state": {
+      "name": "Illinois",
+      "code": "IL",
+      "country": "USA"
+    }
   }
 }

@@ -353,6 +353,10 @@
     ],
     "Name": "WVIT",
     "ID": 529,
-    "state": "WV"
+    "state": {
+      "name": "West Virginia",
+      "code": "WV",
+      "country": "USA"
+    }
   }
 }

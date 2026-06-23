@@ -353,6 +353,10 @@
     ],
     "Name": "Earlham",
     "ID": 338,
-    "state": "IN"
+    "state": {
+      "name": "Indiana",
+      "code": "IN",
+      "country": "USA"
+    }
   }
 }

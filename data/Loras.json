@@ -353,6 +353,10 @@
     ],
     "Name": "Loras",
     "ID": 508,
-    "state": "IA"
+    "state": {
+      "name": "Iowa",
+      "code": "IA",
+      "country": "USA"
+    }
   }
 }

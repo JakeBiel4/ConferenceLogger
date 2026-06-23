@@ -355,6 +355,10 @@
     ],
     "Name": "Luther",
     "ID": 484,
-    "state": "IA"
+    "state": {
+      "name": "Iowa",
+      "code": "IA",
+      "country": "USA"
+    }
   }
 }

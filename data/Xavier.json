@@ -353,6 +353,10 @@
     ],
     "Name": "Xavier",
     "ID": 241,
-    "state": "OH"
+    "state": {
+      "name": "Ohio",
+      "code": "OH",
+      "country": "USA"
+    }
   }
 }

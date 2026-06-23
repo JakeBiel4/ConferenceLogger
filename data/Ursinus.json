@@ -353,6 +353,10 @@
     ],
     "Name": "Ursinus",
     "ID": 232,
-    "state": "PA"
+    "state": {
+      "name": "Pennsylvania",
+      "code": "PA",
+      "country": "USA"
+    }
   }
 }

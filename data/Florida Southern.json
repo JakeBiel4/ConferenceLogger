@@ -353,6 +353,10 @@
     ],
     "Name": "Florida Southern",
     "ID": 296,
-    "state": "FL"
+    "state": {
+      "name": "Florida",
+      "code": "FL",
+      "country": "USA"
+    }
   }
 }

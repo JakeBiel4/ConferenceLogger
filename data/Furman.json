@@ -353,6 +353,10 @@
     ],
     "Name": "Furman",
     "ID": 83,
-    "state": "SC"
+    "state": {
+      "name": "South Carolina",
+      "code": "SC",
+      "country": "USA"
+    }
   }
 }

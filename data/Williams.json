@@ -353,6 +353,10 @@
     ],
     "Name": "Williams",
     "ID": 48,
-    "state": "MA"
+    "state": {
+      "name": "Massachusetts",
+      "code": "MA",
+      "country": "USA"
+    }
   }
 }

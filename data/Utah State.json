@@ -353,6 +353,10 @@
     ],
     "Name": "Utah State",
     "ID": 141,
-    "state": "UT"
+    "state": {
+      "name": "Utah",
+      "code": "UT",
+      "country": "USA"
+    }
   }
 }

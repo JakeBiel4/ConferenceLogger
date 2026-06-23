@@ -354,6 +354,10 @@
     ],
     "Name": "Baylor",
     "ID": 216,
-    "state": "TX"
+    "state": {
+      "name": "Texas",
+      "code": "TX",
+      "country": "USA"
+    }
   }
 }

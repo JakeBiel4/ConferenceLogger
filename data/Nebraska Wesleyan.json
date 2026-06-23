@@ -355,6 +355,10 @@
     ],
     "Name": "Nebraska Wesleyan",
     "ID": 331,
-    "state": "NE"
+    "state": {
+      "name": "Nebraska",
+      "code": "NE",
+      "country": "USA"
+    }
   }
 }

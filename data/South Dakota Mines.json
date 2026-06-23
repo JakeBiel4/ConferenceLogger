@@ -353,6 +353,10 @@
     ],
     "Name": "South Dakota Mines",
     "ID": 408,
-    "state": "SD"
+    "state": {
+      "name": "South Dakota",
+      "code": "SD",
+      "country": "USA"
+    }
   }
 }

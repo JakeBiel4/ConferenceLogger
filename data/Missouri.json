@@ -353,6 +353,10 @@
     ],
     "Name": "Missouri",
     "ID": 96,
-    "state": "MO"
+    "state": {
+      "name": "Missouri",
+      "code": "MO",
+      "country": "USA"
+    }
   }
 }

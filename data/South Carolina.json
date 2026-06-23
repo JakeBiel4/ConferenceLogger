@@ -353,6 +353,10 @@
     ],
     "Name": "South Carolina",
     "ID": 137,
-    "state": "SC"
+    "state": {
+      "name": "South Carolina",
+      "code": "SC",
+      "country": "USA"
+    }
   }
 }

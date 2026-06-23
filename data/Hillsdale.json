@@ -353,6 +353,10 @@
     ],
     "Name": "Hillsdale",
     "ID": 120,
-    "state": "MI"
+    "state": {
+      "name": "Michigan",
+      "code": "MI",
+      "country": "USA"
+    }
   }
 }

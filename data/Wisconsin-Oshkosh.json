@@ -353,6 +353,10 @@
     ],
     "Name": "Wisconsin-Oshkosh",
     "ID": 310,
-    "state": "WI"
+    "state": {
+      "name": "Wisconsin",
+      "code": "WI",
+      "country": "USA"
+    }
   }
 }

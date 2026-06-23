@@ -353,6 +353,10 @@
     ],
     "Name": "Wisconsin-Eau Claire",
     "ID": 368,
-    "state": "WI"
+    "state": {
+      "name": "Wisconsin",
+      "code": "WI",
+      "country": "USA"
+    }
   }
 }

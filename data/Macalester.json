@@ -353,6 +353,10 @@
     ],
     "Name": "Macalester",
     "ID": 396,
-    "state": "MN"
+    "state": {
+      "name": "Minnesota",
+      "code": "MN",
+      "country": "USA"
+    }
   }
 }

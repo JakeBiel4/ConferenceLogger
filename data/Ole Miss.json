@@ -353,6 +353,10 @@
     ],
     "Name": "Ole Miss",
     "ID": 159,
-    "state": "MS"
+    "state": {
+      "name": "Mississippi",
+      "code": "MS",
+      "country": "USA"
+    }
   }
 }

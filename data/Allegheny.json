@@ -353,6 +353,10 @@
     ],
     "Name": "Allegheny",
     "ID": 324,
-    "state": "PA"
+    "state": {
+      "name": "Pennsylvania",
+      "code": "PA",
+      "country": "USA"
+    }
   }
 }

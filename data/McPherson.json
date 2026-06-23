@@ -353,6 +353,10 @@
     ],
     "Name": "McPherson",
     "ID": 420,
-    "state": "KS"
+    "state": {
+      "name": "Kansas",
+      "code": "KS",
+      "country": "USA"
+    }
   }
 }

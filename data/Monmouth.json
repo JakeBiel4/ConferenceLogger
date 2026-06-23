@@ -355,6 +355,10 @@
     ],
     "Name": "Monmouth",
     "ID": 447,
-    "state": "IL"
+    "state": {
+      "name": "Illinois",
+      "code": "IL",
+      "country": "USA"
+    }
   }
 }

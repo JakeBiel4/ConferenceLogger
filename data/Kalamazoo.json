@@ -353,6 +353,10 @@
     ],
     "Name": "Kalamazoo",
     "ID": 125,
-    "state": "MI"
+    "state": {
+      "name": "Michigan",
+      "code": "MI",
+      "country": "USA"
+    }
   }
 }

@@ -353,6 +353,10 @@
     ],
     "Name": "Michigan Tech",
     "ID": 390,
-    "state": "MI"
+    "state": {
+      "name": "Michigan",
+      "code": "MI",
+      "country": "USA"
+    }
   }
 }

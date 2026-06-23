@@ -353,6 +353,10 @@
     ],
     "Name": "Ouachita Baptist",
     "ID": 339,
-    "state": "AR"
+    "state": {
+      "name": "Arkansas",
+      "code": "AR",
+      "country": "USA"
+    }
   }
 }

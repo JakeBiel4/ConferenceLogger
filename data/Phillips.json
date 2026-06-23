@@ -353,6 +353,10 @@
     ],
     "Name": "Phillips",
     "ID": 373,
-    "state": "OK"
+    "state": {
+      "name": "Oklahoma",
+      "code": "OK",
+      "country": "USA"
+    }
   }
 }

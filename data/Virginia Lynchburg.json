@@ -353,6 +353,10 @@
     ],
     "Name": "Virginia Lynchburg",
     "ID": 419,
-    "state": "VA"
+    "state": {
+      "name": "Virginia",
+      "code": "VA",
+      "country": "USA"
+    }
   }
 }

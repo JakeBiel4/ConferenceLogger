@@ -353,6 +353,10 @@
     ],
     "Name": "Cincinnati",
     "ID": 57,
-    "state": "OH"
+    "state": {
+      "name": "Ohio",
+      "code": "OH",
+      "country": "USA"
+    }
   }
 }

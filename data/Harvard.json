@@ -353,6 +353,10 @@
     ],
     "Name": "Harvard",
     "ID": 6,
-    "state": "MA"
+    "state": {
+      "name": "Massachusetts",
+      "code": "MA",
+      "country": "USA"
+    }
   }
 }

@@ -356,6 +356,10 @@
     ],
     "Name": "Millikin",
     "ID": 330,
-    "state": "IL"
+    "state": {
+      "name": "Illinois",
+      "code": "IL",
+      "country": "USA"
+    }
   }
 }

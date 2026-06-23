@@ -353,6 +353,10 @@
     ],
     "Name": "Georgetown",
     "ID": 33,
-    "state": "DC"
+    "state": {
+      "name": "Washington D.C.",
+      "code": "DC",
+      "country": "USA"
+    }
   }
 }

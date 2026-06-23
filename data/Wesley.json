@@ -353,6 +353,10 @@
     ],
     "Name": "Wesley",
     "ID": 82,
-    "state": "DE"
+    "state": {
+      "name": "Delaware",
+      "code": "DE",
+      "country": "USA"
+    }
   }
 }

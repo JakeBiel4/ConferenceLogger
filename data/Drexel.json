@@ -353,6 +353,10 @@
     ],
     "Name": "Drexel",
     "ID": 116,
-    "state": "PA"
+    "state": {
+      "name": "Pennsylvania",
+      "code": "PA",
+      "country": "USA"
+    }
   }
 }

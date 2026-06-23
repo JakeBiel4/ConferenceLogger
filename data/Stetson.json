@@ -353,6 +353,10 @@
     ],
     "Name": "Stetson",
     "ID": 223,
-    "state": "FL"
+    "state": {
+      "name": "Florida",
+      "code": "FL",
+      "country": "USA"
+    }
   }
 }

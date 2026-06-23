@@ -353,6 +353,10 @@
     ],
     "Name": "VMI",
     "ID": 13,
-    "state": "VA"
+    "state": {
+      "name": "Virginia",
+      "code": "VA",
+      "country": "USA"
+    }
   }
 }

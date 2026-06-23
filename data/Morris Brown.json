@@ -353,6 +353,10 @@
     ],
     "Name": "Morris Brown",
     "ID": 320,
-    "state": "GA"
+    "state": {
+      "name": "Georgia",
+      "code": "GA",
+      "country": "USA"
+    }
   }
 }

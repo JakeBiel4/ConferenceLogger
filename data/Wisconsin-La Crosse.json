@@ -355,6 +355,10 @@
     ],
     "Name": "Wisconsin-La Crosse",
     "ID": 309,
-    "state": "WI"
+    "state": {
+      "name": "Wisconsin",
+      "code": "WI",
+      "country": "USA"
+    }
   }
 }

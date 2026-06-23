@@ -353,6 +353,10 @@
     ],
     "Name": "Alabama",
     "ID": 128,
-    "state": "AL"
+    "state": {
+      "name": "Alabama",
+      "code": "AL",
+      "country": "USA"
+    }
   }
 }

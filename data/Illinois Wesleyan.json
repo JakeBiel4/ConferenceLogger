@@ -353,6 +353,10 @@
     ],
     "Name": "Illinois Wesleyan",
     "ID": 443,
-    "state": "IL"
+    "state": {
+      "name": "Illinois",
+      "code": "IL",
+      "country": "USA"
+    }
   }
 }

@@ -353,6 +353,10 @@
     ],
     "Name": "Columbus",
     "ID": 409,
-    "state": "SD"
+    "state": {
+      "name": "South Dakota",
+      "code": "SD",
+      "country": "USA"
+    }
   }
 }

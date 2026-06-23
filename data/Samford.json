@@ -353,6 +353,10 @@
     ],
     "Name": "Samford",
     "ID": 235,
-    "state": "AL"
+    "state": {
+      "name": "Alabama",
+      "code": "AL",
+      "country": "USA"
+    }
   }
 }

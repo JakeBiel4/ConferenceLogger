@@ -353,6 +353,10 @@
     ],
     "Name": "Texas Wesleyan",
     "ID": 290,
-    "state": "TX"
+    "state": {
+      "name": "Texas",
+      "code": "TX",
+      "country": "USA"
+    }
   }
 }

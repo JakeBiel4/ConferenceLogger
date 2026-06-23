@@ -353,6 +353,10 @@
     ],
     "Name": "Trinity (TX)",
     "ID": 247,
-    "state": "TX"
+    "state": {
+      "name": "Texas",
+      "code": "TX",
+      "country": "USA"
+    }
   }
 }

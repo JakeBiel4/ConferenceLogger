@@ -353,6 +353,10 @@
     ],
     "Name": "Geneva",
     "ID": 94,
-    "state": "PA"
+    "state": {
+      "name": "Pennsylvania",
+      "code": "PA",
+      "country": "USA"
+    }
   }
 }

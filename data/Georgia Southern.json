@@ -353,6 +353,10 @@
     ],
     "Name": "Georgia Southern",
     "ID": 496,
-    "state": "GA"
+    "state": {
+      "name": "Georgia",
+      "code": "GA",
+      "country": "USA"
+    }
   }
 }

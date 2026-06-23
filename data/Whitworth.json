@@ -353,6 +353,10 @@
     ],
     "Name": "Whitworth",
     "ID": 412,
-    "state": "WA"
+    "state": {
+      "name": "Washington",
+      "code": "WA",
+      "country": "USA"
+    }
   }
 }

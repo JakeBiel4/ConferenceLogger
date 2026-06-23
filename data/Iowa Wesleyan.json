@@ -353,6 +353,10 @@
     ],
     "Name": "Iowa Wesleyan",
     "ID": 488,
-    "state": "IA"
+    "state": {
+      "name": "Iowa",
+      "code": "IA",
+      "country": "USA"
+    }
   }
 }

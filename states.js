@@ -32,6 +32,10 @@ app.post('/next', (req, res) => {
 app.get('/save', (req, res) => {
     fs.writeFileSync('./states.json', JSON.stringify(point, null, 2));
 });
+app.post('/encode', (req, res) => {
+    point.states = req.body.states;
+    fs.writeFileSync('./states.json', JSON.stringify(point, null, 2));
+});
 app.listen(PORT, () => {
     console.log("Server running on " + PORT);
 });

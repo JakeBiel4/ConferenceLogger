@@ -353,6 +353,10 @@
     ],
     "Name": "MIT",
     "ID": 31,
-    "state": "MA"
+    "state": {
+      "name": "Massachusetts",
+      "code": "MA",
+      "country": "USA"
+    }
   }
 }

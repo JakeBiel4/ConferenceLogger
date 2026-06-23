@@ -353,6 +353,10 @@
     ],
     "Name": "Olivet",
     "ID": 55,
-    "state": "MI"
+    "state": {
+      "name": "Michigan",
+      "code": "MI",
+      "country": "USA"
+    }
   }
 }

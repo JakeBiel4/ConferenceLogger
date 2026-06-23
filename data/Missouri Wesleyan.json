@@ -353,6 +353,10 @@
     ],
     "Name": "Missouri Wesleyan",
     "ID": 349,
-    "state": "MO"
+    "state": {
+      "name": "Missouri",
+      "code": "MO",
+      "country": "USA"
+    }
   }
 }

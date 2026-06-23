@@ -353,6 +353,10 @@
     ],
     "Name": "Kansas",
     "ID": 99,
-    "state": "KS"
+    "state": {
+      "name": "Kansas",
+      "code": "KS",
+      "country": "USA"
+    }
   }
 }

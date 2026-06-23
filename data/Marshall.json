@@ -353,6 +353,10 @@
     ],
     "Name": "Marshall",
     "ID": 189,
-    "state": "WV"
+    "state": {
+      "name": "West Virginia",
+      "code": "WV",
+      "country": "USA"
+    }
   }
 }

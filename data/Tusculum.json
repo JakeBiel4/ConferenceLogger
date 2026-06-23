@@ -353,6 +353,10 @@
     ],
     "Name": "Tusculum",
     "ID": 229,
-    "state": "TN"
+    "state": {
+      "name": "Tennessee",
+      "code": "TN",
+      "country": "USA"
+    }
   }
 }

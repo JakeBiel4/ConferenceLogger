@@ -353,6 +353,10 @@
     ],
     "Name": "Davis & Elkins",
     "ID": 469,
-    "state": "WV"
+    "state": {
+      "name": "West Virginia",
+      "code": "WV",
+      "country": "USA"
+    }
   }
 }

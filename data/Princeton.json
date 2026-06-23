@@ -353,6 +353,10 @@
     ],
     "Name": "Princeton",
     "ID": 1,
-    "state": "NJ"
+    "state": {
+      "name": "New Jersey",
+      "code": "NJ",
+      "country": "USA"
+    }
   }
 }

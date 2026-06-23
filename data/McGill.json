@@ -353,6 +353,10 @@
     ],
     "Name": "McGill",
     "ID": 8,
-    "state": "QC"
+    "state": {
+      "name": "Quebec",
+      "code": "QC",
+      "country": "Canada"
+    }
   }
 }

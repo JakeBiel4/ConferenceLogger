@@ -353,6 +353,10 @@
     ],
     "Name": "Hawaii",
     "ID": 273,
-    "state": "HI"
+    "state": {
+      "name": "Hawaii",
+      "code": "HI",
+      "country": "USA"
+    }
   }
 }

@@ -353,6 +353,10 @@
     ],
     "Name": "Rollins",
     "ID": 252,
-    "state": "FL"
+    "state": {
+      "name": "Florida",
+      "code": "FL",
+      "country": "USA"
+    }
   }
 }

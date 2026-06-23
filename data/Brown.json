@@ -353,6 +353,10 @@
     ],
     "Name": "Brown",
     "ID": 20,
-    "state": "RI"
+    "state": {
+      "name": "Rhode Island",
+      "code": "RI",
+      "country": "USA"
+    }
   }
 }

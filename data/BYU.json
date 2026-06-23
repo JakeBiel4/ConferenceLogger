@@ -353,6 +353,10 @@
     ],
     "Name": "BYU",
     "ID": 435,
-    "state": "UT"
+    "state": {
+      "name": "Utah",
+      "code": "UT",
+      "country": "USA"
+    }
   }
 }

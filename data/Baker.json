@@ -353,6 +353,10 @@
     ],
     "Name": "Baker",
     "ID": 97,
-    "state": "KS"
+    "state": {
+      "name": "Kansas",
+      "code": "KS",
+      "country": "USA"
+    }
   }
 }

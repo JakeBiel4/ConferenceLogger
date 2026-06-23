@@ -353,6 +353,10 @@
     ],
     "Name": "Bradley",
     "ID": 436,
-    "state": "IL"
+    "state": {
+      "name": "Illinois",
+      "code": "IL",
+      "country": "USA"
+    }
   }
 }

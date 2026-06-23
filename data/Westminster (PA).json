@@ -353,6 +353,10 @@
     ],
     "Name": "Westminster (PA)",
     "ID": 506,
-    "state": "PA"
+    "state": {
+      "name": "Pennsylvania",
+      "code": "PA",
+      "country": "USA"
+    }
   }
 }

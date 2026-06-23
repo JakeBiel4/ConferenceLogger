@@ -353,6 +353,10 @@
     ],
     "Name": "South Dakota-Springfield",
     "ID": 504,
-    "state": "SD"
+    "state": {
+      "name": "South Dakota",
+      "code": "SD",
+      "country": "USA"
+    }
   }
 }

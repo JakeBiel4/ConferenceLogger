@@ -353,6 +353,10 @@
     ],
     "Name": "Presbyterian",
     "ID": 295,
-    "state": "SC"
+    "state": {
+      "name": "South Carolina",
+      "code": "SC",
+      "country": "USA"
+    }
   }
 }

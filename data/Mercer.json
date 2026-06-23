@@ -353,6 +353,10 @@
     ],
     "Name": "Mercer",
     "ID": 133,
-    "state": "GA"
+    "state": {
+      "name": "Georgia",
+      "code": "GA",
+      "country": "USA"
+    }
   }
 }

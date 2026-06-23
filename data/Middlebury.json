@@ -353,6 +353,10 @@
     ],
     "Name": "Middlebury",
     "ID": 325,
-    "state": "VT"
+    "state": {
+      "name": "Vermont",
+      "code": "VT",
+      "country": "USA"
+    }
   }
 }

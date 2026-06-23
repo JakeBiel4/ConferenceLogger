@@ -353,6 +353,10 @@
     ],
     "Name": "Auburn",
     "ID": 129,
-    "state": "AL"
+    "state": {
+      "name": "Alabama",
+      "code": "AL",
+      "country": "USA"
+    }
   }
 }

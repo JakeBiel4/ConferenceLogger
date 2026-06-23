@@ -353,6 +353,10 @@
     ],
     "Name": "Memphis",
     "ID": 283,
-    "state": "TN"
+    "state": {
+      "name": "Tennessee",
+      "code": "TN",
+      "country": "USA"
+    }
   }
 }

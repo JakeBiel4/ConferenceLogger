@@ -353,6 +353,10 @@
     ],
     "Name": "Syracuse",
     "ID": 89,
-    "state": "NY"
+    "state": {
+      "name": "New York",
+      "code": "NY",
+      "country": "USA"
+    }
   }
 }

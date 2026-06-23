@@ -353,6 +353,10 @@
     ],
     "Name": "North Dakota State",
     "ID": 174,
-    "state": "ND"
+    "state": {
+      "name": "North Dakota",
+      "code": "ND",
+      "country": "USA"
+    }
   }
 }

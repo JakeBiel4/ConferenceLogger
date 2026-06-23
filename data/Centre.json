@@ -354,6 +354,10 @@
     ],
     "Name": "Centre",
     "ID": 30,
-    "state": "KY"
+    "state": {
+      "name": "Kentucky",
+      "code": "KY",
+      "country": "USA"
+    }
   }
 }

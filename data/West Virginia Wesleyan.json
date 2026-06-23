@@ -353,6 +353,10 @@
     ],
     "Name": "West Virginia Wesleyan",
     "ID": 530,
-    "state": "WV"
+    "state": {
+      "name": "West Virginia",
+      "code": "WV",
+      "country": "USA"
+    }
   }
 }

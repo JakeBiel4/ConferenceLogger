@@ -353,6 +353,10 @@
     ],
     "Name": "Lewis & Clark",
     "ID": 169,
-    "state": "OR"
+    "state": {
+      "name": "Oregon",
+      "code": "OR",
+      "country": "USA"
+    }
   }
 }

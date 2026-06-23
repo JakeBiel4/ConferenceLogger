@@ -353,6 +353,10 @@
     ],
     "Name": "Western Michigan",
     "ID": 258,
-    "state": "MI"
+    "state": {
+      "name": "Michigan",
+      "code": "MI",
+      "country": "USA"
+    }
   }
 }

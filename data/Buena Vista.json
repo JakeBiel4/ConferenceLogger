@@ -353,6 +353,10 @@
     ],
     "Name": "Buena Vista",
     "ID": 483,
-    "state": "IA"
+    "state": {
+      "name": "Iowa",
+      "code": "IA",
+      "country": "USA"
+    }
   }
 }

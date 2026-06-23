@@ -353,6 +353,10 @@
     ],
     "Name": "Dakota Wesleyan",
     "ID": 404,
-    "state": "SD"
+    "state": {
+      "name": "South Dakota",
+      "code": "SD",
+      "country": "USA"
+    }
   }
 }

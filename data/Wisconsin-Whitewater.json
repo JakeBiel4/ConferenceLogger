@@ -353,6 +353,10 @@
     ],
     "Name": "Wisconsin-Whitewater",
     "ID": 307,
-    "state": "WI"
+    "state": {
+      "name": "Wisconsin",
+      "code": "WI",
+      "country": "USA"
+    }
   }
 }

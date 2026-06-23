@@ -353,6 +353,10 @@
     ],
     "Name": "Wisconsin-River Falls",
     "ID": 312,
-    "state": "WI"
+    "state": {
+      "name": "Wisconsin",
+      "code": "WI",
+      "country": "USA"
+    }
   }
 }

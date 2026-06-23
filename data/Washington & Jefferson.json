@@ -353,6 +353,10 @@
     ],
     "Name": "Washington & Jefferson",
     "ID": 88,
-    "state": "PA"
+    "state": {
+      "name": "Pennsylvania",
+      "code": "PA",
+      "country": "USA"
+    }
   }
 }

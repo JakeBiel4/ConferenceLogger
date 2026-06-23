@@ -353,6 +353,10 @@
     ],
     "Name": "George Washington",
     "ID": 35,
-    "state": "DC"
+    "state": {
+      "name": "Washington D.C.",
+      "code": "DC",
+      "country": "USA"
+    }
   }
 }

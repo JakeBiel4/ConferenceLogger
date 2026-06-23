@@ -353,6 +353,10 @@
     ],
     "Name": "St John's",
     "ID": 73,
-    "state": "MD"
+    "state": {
+      "name": "Maryland",
+      "code": "MD",
+      "country": "USA"
+    }
   }
 }

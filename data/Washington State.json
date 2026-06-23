@@ -361,6 +361,10 @@
     ],
     "Name": "Washington State",
     "ID": 180,
-    "state": "WA"
+    "state": {
+      "name": "Washington",
+      "code": "WA",
+      "country": "USA"
+    }
   }
 }

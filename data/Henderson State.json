@@ -353,6 +353,10 @@
     ],
     "Name": "Henderson State",
     "ID": 342,
-    "state": "AR"
+    "state": {
+      "name": "Arkansas",
+      "code": "AR",
+      "country": "USA"
+    }
   }
 }

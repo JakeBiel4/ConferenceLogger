@@ -353,6 +353,10 @@
     ],
     "Name": "Northwestern State",
     "ID": 264,
-    "state": "LA"
+    "state": {
+      "name": "Louisiana",
+      "code": "LA",
+      "country": "USA"
+    }
   }
 }

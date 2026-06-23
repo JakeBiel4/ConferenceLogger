@@ -353,6 +353,10 @@
     ],
     "Name": "Ellsworth",
     "ID": 489,
-    "state": "IA"
+    "state": {
+      "name": "Iowa",
+      "code": "IA",
+      "country": "USA"
+    }
   }
 }

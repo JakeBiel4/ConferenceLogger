@@ -353,6 +353,10 @@
     ],
     "Name": "Illinois",
     "ID": 98,
-    "state": "IL"
+    "state": {
+      "name": "Illinois",
+      "code": "IL",
+      "country": "USA"
+    }
   }
 }

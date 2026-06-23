@@ -353,6 +353,10 @@
     ],
     "Name": "A.T. Still",
     "ID": 218,
-    "state": "MO"
+    "state": {
+      "name": "Missouri",
+      "code": "MO",
+      "country": "USA"
+    }
   }
 }

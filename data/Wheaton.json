@@ -353,6 +353,10 @@
     ],
     "Name": "Wheaton",
     "ID": 451,
-    "state": "IL"
+    "state": {
+      "name": "Illinois",
+      "code": "IL",
+      "country": "USA"
+    }
   }
 }

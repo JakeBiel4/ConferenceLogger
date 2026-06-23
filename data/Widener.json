@@ -353,6 +353,10 @@
     ],
     "Name": "Widener",
     "ID": 27,
-    "state": "PA"
+    "state": {
+      "name": "Pennsylvania",
+      "code": "PA",
+      "country": "USA"
+    }
   }
 }

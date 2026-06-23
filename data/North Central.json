@@ -353,6 +353,10 @@
     ],
     "Name": "North Central",
     "ID": 523,
-    "state": "IL"
+    "state": {
+      "name": "Illinois",
+      "code": "IL",
+      "country": "USA"
+    }
   }
 }

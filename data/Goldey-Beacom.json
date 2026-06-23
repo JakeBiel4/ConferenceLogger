@@ -353,6 +353,10 @@
     ],
     "Name": "Goldey-Beacom",
     "ID": 243,
-    "state": "DE"
+    "state": {
+      "name": "Delaware",
+      "code": "DE",
+      "country": "USA"
+    }
   }
 }

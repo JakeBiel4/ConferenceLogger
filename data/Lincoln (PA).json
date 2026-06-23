@@ -353,6 +353,10 @@
     ],
     "Name": "Lincoln (PA)",
     "ID": 287,
-    "state": "PA"
+    "state": {
+      "name": "Pennsylvania",
+      "code": "PA",
+      "country": "USA"
+    }
   }
 }

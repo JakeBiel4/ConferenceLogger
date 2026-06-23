@@ -353,6 +353,10 @@
     ],
     "Name": "Franklin & Marshall",
     "ID": 62,
-    "state": "PA"
+    "state": {
+      "name": "Pennsylvania",
+      "code": "PA",
+      "country": "USA"
+    }
   }
 }

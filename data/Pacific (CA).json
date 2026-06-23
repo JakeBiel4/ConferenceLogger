@@ -353,6 +353,10 @@
     ],
     "Name": "Pacific (CA)",
     "ID": 377,
-    "state": "CA"
+    "state": {
+      "name": "California",
+      "code": "CA",
+      "country": "USA"
+    }
   }
 }

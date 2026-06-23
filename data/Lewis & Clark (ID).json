@@ -353,6 +353,10 @@
     ],
     "Name": "Lewis & Clark (ID)",
     "ID": 498,
-    "state": "ID"
+    "state": {
+      "name": "Idaho",
+      "code": "ID",
+      "country": "USA"
+    }
   }
 }

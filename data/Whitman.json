@@ -353,6 +353,10 @@
     ],
     "Name": "Whitman",
     "ID": 231,
-    "state": "WA"
+    "state": {
+      "name": "Washington",
+      "code": "WA",
+      "country": "USA"
+    }
   }
 }

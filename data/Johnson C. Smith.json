@@ -353,6 +353,10 @@
     ],
     "Name": "Johnson C. Smith",
     "ID": 126,
-    "state": "NC"
+    "state": {
+      "name": "North Carolina",
+      "code": "NC",
+      "country": "USA"
+    }
   }
 }

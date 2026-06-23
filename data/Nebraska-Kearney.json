@@ -353,6 +353,10 @@
     ],
     "Name": "Nebraska-Kearney",
     "ID": 386,
-    "state": "NE"
+    "state": {
+      "name": "Nebraska",
+      "code": "NE",
+      "country": "USA"
+    }
   }
 }

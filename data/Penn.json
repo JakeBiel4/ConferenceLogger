@@ -353,6 +353,10 @@
     ],
     "Name": "Penn",
     "ID": 17,
-    "state": "PA"
+    "state": {
+      "name": "Pennsylvania",
+      "code": "PA",
+      "country": "USA"
+    }
   }
 }

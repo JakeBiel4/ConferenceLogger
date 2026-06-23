@@ -353,6 +353,10 @@
     ],
     "Name": "Elon",
     "ID": 271,
-    "state": "NC"
+    "state": {
+      "name": "North Carolina",
+      "code": "NC",
+      "country": "USA"
+    }
   }
 }

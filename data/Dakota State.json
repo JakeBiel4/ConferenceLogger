@@ -353,6 +353,10 @@
     ],
     "Name": "Dakota State",
     "ID": 491,
-    "state": "SD"
+    "state": {
+      "name": "South Dakota",
+      "code": "SD",
+      "country": "USA"
+    }
   }
 }

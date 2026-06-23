@@ -353,6 +353,10 @@
     ],
     "Name": "Kentucky",
     "ID": 37,
-    "state": "KY"
+    "state": {
+      "name": "Kentucky",
+      "code": "KY",
+      "country": "USA"
+    }
   }
 }

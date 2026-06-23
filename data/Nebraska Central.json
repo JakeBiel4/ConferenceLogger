@@ -353,6 +353,10 @@
     ],
     "Name": "Nebraska Central",
     "ID": 387,
-    "state": "NE"
+    "state": {
+      "name": "Nebraska",
+      "code": "NE",
+      "country": "USA"
+    }
   }
 }

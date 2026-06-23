@@ -353,6 +353,10 @@
     ],
     "Name": "Jamestown",
     "ID": 332,
-    "state": "ND"
+    "state": {
+      "name": "North Dakota",
+      "code": "ND",
+      "country": "USA"
+    }
   }
 }

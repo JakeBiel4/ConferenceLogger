@@ -353,6 +353,10 @@
     ],
     "Name": "Beloit",
     "ID": 151,
-    "state": "WI"
+    "state": {
+      "name": "Wisconsin",
+      "code": "WI",
+      "country": "USA"
+    }
   }
 }

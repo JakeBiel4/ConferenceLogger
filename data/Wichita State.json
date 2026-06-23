@@ -353,6 +353,10 @@
     ],
     "Name": "Wichita State",
     "ID": 209,
-    "state": "KS"
+    "state": {
+      "name": "Kansas",
+      "code": "KS",
+      "country": "USA"
+    }
   }
 }

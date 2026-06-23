@@ -357,6 +357,10 @@
     ],
     "Name": "Hamline",
     "ID": 49,
-    "state": "MN"
+    "state": {
+      "name": "Minnesota",
+      "code": "MN",
+      "country": "USA"
+    }
   }
 }

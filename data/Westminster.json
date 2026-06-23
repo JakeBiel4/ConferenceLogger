@@ -353,6 +353,10 @@
     ],
     "Name": "Westminster",
     "ID": 348,
-    "state": "MO"
+    "state": {
+      "name": "Missouri",
+      "code": "MO",
+      "country": "USA"
+    }
   }
 }

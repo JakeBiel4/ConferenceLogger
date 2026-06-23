@@ -353,6 +353,10 @@
     ],
     "Name": "Western Kentucky",
     "ID": 294,
-    "state": "KY"
+    "state": {
+      "name": "Kentucky",
+      "code": "KY",
+      "country": "USA"
+    }
   }
 }

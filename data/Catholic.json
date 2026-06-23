@@ -353,6 +353,10 @@
     ],
     "Name": "Catholic",
     "ID": 190,
-    "state": "DC"
+    "state": {
+      "name": "Washington D.C.",
+      "code": "DC",
+      "country": "USA"
+    }
   }
 }

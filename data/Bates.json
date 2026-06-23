@@ -353,6 +353,10 @@
     ],
     "Name": "Bates",
     "ID": 16,
-    "state": "ME"
+    "state": {
+      "name": "Maine",
+      "code": "ME",
+      "country": "USA"
+    }
   }
 }

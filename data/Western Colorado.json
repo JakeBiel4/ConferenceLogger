@@ -353,6 +353,10 @@
     ],
     "Name": "Western Colorado",
     "ID": 509,
-    "state": "CO"
+    "state": {
+      "name": "Colorado",
+      "code": "CO",
+      "country": "USA"
+    }
   }
 }

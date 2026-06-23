@@ -353,6 +353,10 @@
     ],
     "Name": "Northern Colorado",
     "ID": 510,
-    "state": "CO"
+    "state": {
+      "name": "Colorado",
+      "code": "CO",
+      "country": "USA"
+    }
   }
 }

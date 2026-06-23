@@ -353,6 +353,10 @@
     ],
     "Name": "North Carolina",
     "ID": 72,
-    "state": "NC"
+    "state": {
+      "name": "North Carolina",
+      "code": "NC",
+      "country": "USA"
+    }
   }
 }

@@ -353,6 +353,10 @@
     ],
     "Name": "Florida",
     "ID": 227,
-    "state": "FL"
+    "state": {
+      "name": "Florida",
+      "code": "FL",
+      "country": "USA"
+    }
   }
 }

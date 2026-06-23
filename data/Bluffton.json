@@ -353,6 +353,10 @@
     ],
     "Name": "Bluffton",
     "ID": 524,
-    "state": "OH"
+    "state": {
+      "name": "Ohio",
+      "code": "OH",
+      "country": "USA"
+    }
   }
 }

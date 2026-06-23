@@ -353,6 +353,10 @@
     ],
     "Name": "Mississippi State",
     "ID": 192,
-    "state": "MS"
+    "state": {
+      "name": "Mississippi",
+      "code": "MS",
+      "country": "USA"
+    }
   }
 }

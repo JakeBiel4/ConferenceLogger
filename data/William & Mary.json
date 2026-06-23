@@ -355,6 +355,10 @@
     ],
     "Name": "William & Mary",
     "ID": 161,
-    "state": "VA"
+    "state": {
+      "name": "Virginia",
+      "code": "VA",
+      "country": "USA"
+    }
   }
 }

@@ -353,6 +353,10 @@
     ],
     "Name": "Wisconsin-Stevens Point",
     "ID": 313,
-    "state": "WI"
+    "state": {
+      "name": "Wisconsin",
+      "code": "WI",
+      "country": "USA"
+    }
   }
 }

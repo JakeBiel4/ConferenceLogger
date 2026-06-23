@@ -353,6 +353,10 @@
     ],
     "Name": "Spokane College",
     "ID": 411,
-    "state": "WA"
+    "state": {
+      "name": "Washington",
+      "code": "WA",
+      "country": "USA"
+    }
   }
 }

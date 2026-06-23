@@ -353,6 +353,10 @@
     ],
     "Name": "Wesleyan",
     "ID": 15,
-    "state": "CT"
+    "state": {
+      "name": "Connecticut",
+      "code": "CT",
+      "country": "USA"
+    }
   }
 }

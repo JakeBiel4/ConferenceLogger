@@ -353,6 +353,10 @@
     ],
     "Name": "Wyoming",
     "ID": 166,
-    "state": "WY"
+    "state": {
+      "name": "Wyoming",
+      "code": "WY",
+      "country": "USA"
+    }
   }
 }

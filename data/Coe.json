@@ -353,6 +353,10 @@
     ],
     "Name": "Coe",
     "ID": 454,
-    "state": "IA"
+    "state": {
+      "name": "Iowa",
+      "code": "IA",
+      "country": "USA"
+    }
   }
 }

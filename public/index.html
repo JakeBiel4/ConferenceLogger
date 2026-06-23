@@ -23,37 +23,60 @@
     </head>
     <body>
         <div class="main">
-            <div id="submit-box" class="main">
-                <div class="data">
-                    <div class="label-group">
-                        <label for="year">Year: </label>
-                        <input type="text" name="year" id="year">
-                    </div>
-                    <div class="label-group">
-                        <label for="school">School: </label>
-                        <input type="text" name="school" id="school">
-                    </div>
-                    <div class="label-group">
-                        <label for="conf">Conference: </label>
-                        <input type="text" name="conf" id="conf">
-                    </div>
+            <div class="data">
+                <div class="label-group">
+                    <label for="year">Year: </label>
+                    <select id="year" name="year">
                 </div>
-                <div class="data">
-                    <button id="enter">Enter</button>
-                    <button id="fill">Fill</button>
-                    <button id="save">Save</button>
+                <div class="label-group">
+                    <label for="state">State: </label>
+                    <select id="state" name="state"></select>
                 </div>
+                <div class="label-group">
+                    <label for="school">School: </label>
+                    <input type="text" name="school" id="school">
+                </div>
+                <div class="label-group">
+                    <label for="conf">Conference: </label>
+                    <input type="text" name="conf" id="conf">
+                </div>
+            </div>
+            <div class="data">
+                <button id="start">Start</button>
+                <button id="enter">Enter</button>
+                <button id="fill">Fill</button>
             </div>
         </div>
         <script>
             const year = document.getElementById('year');
+            const state = document.getElementById('state');
             const school = document.getElementById('school');
             const conf = document.getElementById('conf');
+            const start = document.getElementById('start');
             const enter = document.getElementById('enter');
             const fill = document.getElementById('fill');
+            start.addEventListener('click', async () => {
+                for(let i = 1869; i <= 2026; i++){
+                    let opt = document.createElement('option');
+                    opt.innerText = i;
+                    opt.value = i;
+                    year.appendChild(opt);
+                }
+                const response = await fetch('/states');
+                const data = await response.json();
+                for(let s of data.states){
+                    let st = document.createElement('option');
+                    st.innerText = s.name;
+                    st.value = s.code;
+                    state.appendChild(st);
+                }
+            });
             enter.addEventListener('click', async () => {
                 await fetch('/add', {
                     method: "POST",
+                    headers: {
+                        "Content-Type": "application/json"
+                    },
                     body: JSON.stringify({
                         year: year.value,
                         Name: school.value,
@@ -66,6 +89,9 @@
             fill.addEventListener('click', async () => {
                 await fetch('/fill', {
                     method: "POST",
+                    headers: {
+                        "Content-Type": "application/json"
+                    },
                     body: JSON.stringify({
                         year: year.value
                     })

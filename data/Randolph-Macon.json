@@ -353,6 +353,10 @@
     ],
     "Name": "Randolph-Macon",
     "ID": 39,
-    "state": "VA"
+    "state": {
+      "name": "Virginia",
+      "code": "VA",
+      "country": "USA"
+    }
   }
 }

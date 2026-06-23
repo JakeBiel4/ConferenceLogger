@@ -353,6 +353,10 @@
     ],
     "Name": "Ottawa",
     "ID": 305,
-    "state": "KS"
+    "state": {
+      "name": "Kansas",
+      "code": "KS",
+      "country": "USA"
+    }
   }
 }

@@ -354,6 +354,10 @@
     ],
     "Name": "Howard Payne",
     "ID": 388,
-    "state": "TX"
+    "state": {
+      "name": "Texas",
+      "code": "TX",
+      "country": "USA"
+    }
   }
 }

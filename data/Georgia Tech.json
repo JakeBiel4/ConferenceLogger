@@ -353,6 +353,10 @@
     ],
     "Name": "Georgia Tech",
     "ID": 138,
-    "state": "GA"
+    "state": {
+      "name": "Georgia",
+      "code": "GA",
+      "country": "USA"
+    }
   }
 }

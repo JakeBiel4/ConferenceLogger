@@ -353,6 +353,10 @@
     ],
     "Name": "Charleston",
     "ID": 279,
-    "state": "WV"
+    "state": {
+      "name": "West Virginia",
+      "code": "WV",
+      "country": "USA"
+    }
   }
 }

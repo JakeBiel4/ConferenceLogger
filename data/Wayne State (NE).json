@@ -353,6 +353,10 @@
     ],
     "Name": "Wayne State (NE)",
     "ID": 401,
-    "state": "NE"
+    "state": {
+      "name": "Nebraska",
+      "code": "NE",
+      "country": "USA"
+    }
   }
 }

@@ -353,6 +353,10 @@
     ],
     "Name": "Southwestern (KS)",
     "ID": 298,
-    "state": "KS"
+    "state": {
+      "name": "Kansas",
+      "code": "KS",
+      "country": "USA"
+    }
   }
 }

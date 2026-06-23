@@ -356,6 +356,10 @@
     ],
     "Name": "Vanderbilt",
     "ID": 105,
-    "state": "TN"
+    "state": {
+      "name": "Tennessee",
+      "code": "TN",
+      "country": "USA"
+    }
   }
 }

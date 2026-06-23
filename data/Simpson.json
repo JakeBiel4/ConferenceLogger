@@ -353,6 +353,10 @@
     ],
     "Name": "Simpson",
     "ID": 480,
-    "state": "IA"
+    "state": {
+      "name": "Iowa",
+      "code": "IA",
+      "country": "USA"
+    }
   }
 }

@@ -353,6 +353,10 @@
     ],
     "Name": "Lake Forest",
     "ID": 42,
-    "state": "IL"
+    "state": {
+      "name": "Illinois",
+      "code": "IL",
+      "country": "USA"
+    }
   }
 }

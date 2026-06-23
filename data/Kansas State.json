@@ -354,6 +354,10 @@
     ],
     "Name": "Kansas State",
     "ID": 200,
-    "state": "KS"
+    "state": {
+      "name": "Kansas",
+      "code": "KS",
+      "country": "USA"
+    }
   }
 }

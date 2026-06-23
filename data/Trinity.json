@@ -353,6 +353,10 @@
     ],
     "Name": "Trinity",
     "ID": 60,
-    "state": "CT"
+    "state": {
+      "name": "Connecticut",
+      "code": "CT",
+      "country": "USA"
+    }
   }
 }

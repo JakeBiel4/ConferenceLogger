@@ -353,6 +353,10 @@
     ],
     "Name": "Boston University",
     "ID": 148,
-    "state": "MA"
+    "state": {
+      "name": "Massachusetts",
+      "code": "MA",
+      "country": "USA"
+    }
   }
 }
