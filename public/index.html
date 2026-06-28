@@ -114,6 +114,9 @@
                 }else if(event.key === 'ArrowLeft'){
                     event.preventDefault();
                     conf.focus();
+                }else if(event.key === 'Enter'){
+                    event.preventDefault();
+                    start.click();
                 }
             });
             enter.addEventListener('click', async () => {
@@ -139,6 +142,9 @@
                 }else if(event.key === 'ArrowLeft'){
                     event.preventDefault();
                     start.focus();
+                }else if(event.key === 'Enter'){
+                    event.preventDefault();
+                    enter.click();
                 }
             });
             fill.addEventListener('click', async () => {
@@ -158,6 +164,9 @@
                 }else if(event.key === 'ArrowLeft'){
                     event.preventDefault();
                     enter.focus();
+                }else if(event.key === 'Enter'){
+                    event.preventDefault();
+                    fill.click();
                 }
             });
             year.focus();
