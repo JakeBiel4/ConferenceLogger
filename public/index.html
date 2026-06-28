@@ -9,6 +9,7 @@
                 display: flex;
                 flex-direction: column;
                 justify-content: center;
+                align-items: center;
             }
             .data {
                 display: flex;
@@ -23,15 +24,15 @@
     </head>
     <body>
         <div class="main">
+            <div class="label-group">
+                <label for="year">Year: </label>
+                <select id="year" name="year"></select>
+            </div>
+            <div class="label-group">
+                <label for="state">State: </label>
+                <select id="state" name="state"></select>
+            </div>
             <div class="data">
-                <div class="label-group">
-                    <label for="year">Year: </label>
-                    <select id="year" name="year">
-                </div>
-                <div class="label-group">
-                    <label for="state">State: </label>
-                    <select id="state" name="state"></select>
-                </div>
                 <div class="label-group">
                     <label for="school">School: </label>
                     <input type="text" name="school" id="school">
@@ -80,7 +81,8 @@
                     body: JSON.stringify({
                         year: year.value,
                         Name: school.value,
-                        conf: conf.value
+                        conf: conf.value,
+                        state: state.value
                     })
                 });
                 school.value = "";
