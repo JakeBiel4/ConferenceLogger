@@ -3,7 +3,7 @@
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Document</title>
+        <title>Enter School Information</title>
         <style>
             .main {
                 display: flex;
@@ -56,6 +56,41 @@
             const start = document.getElementById('start');
             const enter = document.getElementById('enter');
             const fill = document.getElementById('fill');
+            year.addEventListener('keydown', (event) => {
+                if(event.key === 'ArrowRight'){
+                    event.preventDefault();
+                    state.focus();
+                }else if(event.key === 'ArrowLeft'){
+                    event.preventDefault();
+                }
+            });
+            state.addEventListener('keydown', (event) => {
+                if(event.key === 'ArrowRight'){
+                    event.preventDefault();
+                    school.focus();
+                }else if(event.key === 'ArrowLeft'){
+                    event.preventDefault();
+                    year.focus();
+                }
+            });
+            school.addEventListener('keydown', (event) => {
+                if(event.key === 'ArrowRight'){
+                    event.preventDefault();
+                    conf.focus();
+                }else if(event.key === 'ArrowLeft'){
+                    event.preventDefault();
+                    state.focus();
+                }
+            });
+            conf.addEventListener('keydown', (event) => {
+                if(event.key === 'ArrowRight'){
+                    event.preventDefault();
+                    start.focus();
+                }else if(event.key === 'ArrowLeft'){
+                    event.preventDefault();
+                    school.focus();
+                }
+            });
             start.addEventListener('click', async () => {
                 for(let i = 1869; i <= 2026; i++){
                     let opt = document.createElement('option');
@@ -70,6 +105,15 @@
                     st.innerText = s.name;
                     st.value = s.code;
                     state.appendChild(st);
+                }
+            });
+            start.addEventListener('keydown', (event) => {
+                if(event.key === 'ArrowRight'){
+                    event.preventDefault();
+                    enter.focus();
+                }else if(event.key === 'ArrowLeft'){
+                    event.preventDefault();
+                    conf.focus();
                 }
             });
             enter.addEventListener('click', async () => {
@@ -88,6 +132,15 @@
                 school.value = "";
                 conf.value = "";
             });
+            enter.addEventListener('keydown', (event) => {
+                if(event.key === 'ArrowRight'){
+                    event.preventDefault();
+                    fill.focus();
+                }else if(event.key === 'ArrowLeft'){
+                    event.preventDefault();
+                    start.focus();
+                }
+            });
             fill.addEventListener('click', async () => {
                 await fetch('/fill', {
                     method: "POST",
@@ -99,6 +152,15 @@
                     })
                 });
             });
+            fill.addEventListener('keydown', (event) => {
+                if(event.key === 'ArrowRight'){
+                    event.preventDefault();
+                }else if(event.key === 'ArrowLeft'){
+                    event.preventDefault();
+                    enter.focus();
+                }
+            });
+            year.focus();
         </script>
     </body>
 </html>
